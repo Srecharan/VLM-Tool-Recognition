@@ -1,4 +1,4 @@
-# Vision Language Model (VLM) Tool Recognition Project
+# ToolVisionLM: Enhancing Vision-Language Models for Industrial Safety and Tool Recognition 
 
 This repository contains code and documentation for a Vision Language Model project focusing on tool recognition. The project explores different VLM approaches for identifying and classifying various tools.
 
