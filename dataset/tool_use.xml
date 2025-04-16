@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tools_collection>
+  <!-- Wrench -->
+  <tool>
+    <tool_identification>
+      <tool_category>Wrench</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Tightening and loosening nuts, bolts, and fittings of specific sizes</main_purpose>
+    </primary_function>
+    <usage_instructions>Select the correct wrench size to match the fastener; position either the open end or box end on the fastener, ensuring full contact; pull (don't push) the handle for better control and safety; use smooth, steady force rather than jerky movements</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Work gloves, safety glasses</required_ppe>
+      <primary_hazards>Knuckle injuries when fastener suddenly releases; slippage causing impact injuries</primary_hazards>
+      <common_misuses>Using a wrench that's too large for the fastener; using damaged wrenches with rounded jaws; extending handle with pipe for more leverage</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Wipe clean after use, particularly if exposed to corrosive materials</cleaning>
+      <storage>Store in wrench rack or tool roll organized by size</storage>
+      <maintenance_frequency>Inspect jaws monthly for wear, replace if jaws show rounding</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+  
+  <!-- Adjustable Spanner -->
+  <tool>
+    <tool_identification>
+      <tool_category>Adjustable spanner</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Tightening and loosening nuts, bolts, and fasteners of various sizes with a single tool</main_purpose>
+    </primary_function>
+    <usage_instructions>Adjust the jaw width to match the fastener size; position the jaws on the fastener with the adjustable jaw facing the direction of rotation; apply force to the handle in the desired direction; periodically readjust jaw width if working with multiple fastener sizes</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Work gloves, safety glasses</required_ppe>
+      <primary_hazards>Slippage due to improper jaw adjustment; hand injuries from sudden release</primary_hazards>
+      <common_misuses>Using a spanner that's too large for the work area; not orienting the adjustable jaw correctly; using as a hammer or pry bar</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean debris from adjustment mechanism</cleaning>
+      <storage>Store with jaws closed to protect the adjustment mechanism</storage>
+      <maintenance_frequency>Apply light oil to adjustment screw periodically</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Screwdriver -->
+  <tool>
+    <tool_identification>
+      <tool_category>Screwdriver</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Driving and removing screws with a cross-shaped indentation</main_purpose>
+    </primary_function>
+    <usage_instructions>Select the correct size Phillips head for the screw; align the tip with the screw head ensuring proper fit; apply downward pressure while turning; maintain alignment to prevent cam-out and screw head damage</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses</required_ppe>
+      <primary_hazards>Wrist strain from repetitive motion; puncture wounds from slippage</primary_hazards>
+      <common_misuses>Using incorrect size for screw head; using as a pry bar or chisel; applying excessive torque</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Wipe handle and shaft clean of debris</cleaning>
+      <storage>Store in tool chest or rack with other screwdrivers</storage>
+      <maintenance_frequency>Inspect tip monthly for wear and reshape if necessary</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Hammer -->
+  <tool>
+    <tool_identification>
+      <tool_category>Hammer</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Driving nails into materials and removing them</main_purpose>
+    </primary_function>
+    <usage_instructions>Grip the handle firmly near the end for maximum leverage; strike nails squarely with the face of the hammer; use the claw end to extract nails by rolling the hammer handle; for precision, choke up on the handle for better control</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, work gloves</required_ppe>
+      <primary_hazards>Impact injuries to hands and fingers; flying debris causing eye injuries</primary_hazards>
+      <common_misuses>Using the handle or side of head for striking; hitting hardened steel with a standard hammer; using a hammer with a loose head</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Remove any debris from the face and claw</cleaning>
+      <storage>Hang on a tool rack or store in a dry toolbox</storage>
+      <maintenance_frequency>Check handle integrity and head tightness before each use</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Ratchet -->
+  <tool>
+    <tool_identification>
+      <tool_category>Ratchet</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Tightening and loosening fasteners with interchangeable sockets</main_purpose>
+    </primary_function>
+    <usage_instructions>Select the appropriate socket size for the fastener; set the directional switch for tightening or loosening; place the socket fully onto the fastener; use a steady rocking motion to turn fasteners in tight spaces</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Work gloves, safety glasses</required_ppe>
+      <primary_hazards>Knuckle injuries when fastener suddenly releases; socket detachment under load</primary_hazards>
+      <common_misuses>Using impact sockets on hand tools or vice versa; using excessive force with extension bars; not fully engaging socket on fastener</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean mechanism of debris and old lubricant</cleaning>
+      <storage>Store in socket organizer or tool chest</storage>
+      <maintenance_frequency>Apply light machine oil to ratchet mechanism quarterly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Gas Wrench -->
+  <tool>
+    <tool_identification>
+      <tool_category>Gas wrench</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Gripping and turning pipes and fittings for gas and plumbing applications</main_purpose>
+    </primary_function>
+    <usage_instructions>Adjust the jaw opening to match the pipe diameter; position the tool so that force applied to the handle tightens the jaw grip; use two wrenches when appropriate - one to hold, one to turn; apply force in a controlled manner</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Work gloves, safety glasses, steel-toed boots</required_ppe>
+      <primary_hazards>Crushing injuries from heavy tool drops; pinch points between handle and nearby objects</primary_hazards>
+      <common_misuses>Using on chrome or finished fixtures; using on nuts or bolts instead of pipes; extending handle for more leverage</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Remove pipe debris and thread compound from teeth</cleaning>
+      <storage>Hang on tool rack or store in dry location</storage>
+      <maintenance_frequency>Check jaw teeth for sharpness and adjustment mechanism monthly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Hand -->
+  <tool>
+    <tool_identification>
+      <tool_category>Hand</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Manipulating objects, tools, and materials with precision and dexterity</main_purpose>
+    </primary_function>
+    <usage_instructions>Use appropriate hand positions for the task; maintain proper ergonomic positioning to reduce strain; utilize multiple fingers for stability when handling objects; alternate hands for repetitive tasks when possible</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Task-appropriate gloves when necessary</required_ppe>
+      <primary_hazards>Cuts and abrasions from sharp materials; repetitive strain injuries</primary_hazards>
+      <common_misuses>Using bare hands for tasks requiring protective equipment; exceeding physical limitations; placing hands near pinch points</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Wash regularly to remove contaminants</cleaning>
+      <storage>Keep skin moisturized to prevent cracking</storage>
+      <maintenance_frequency>Take regular breaks during repetitive tasks</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Needle-nose pliers -->
+  <tool>
+    <tool_identification>
+      <tool_category>Needle-nose pliers</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Gripping, bending, and manipulating small wires and components in tight spaces</main_purpose>
+    </primary_function>
+    <usage_instructions>Grip the handles firmly; align the jaws parallel to the work piece; apply even pressure when gripping; use the tip for precise manipulation in confined spaces; avoid twisting the tool sideways</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, work gloves</required_ppe>
+      <primary_hazards>Pinch points between handles; sharp wire ends; eye injury from flying wire pieces</primary_hazards>
+      <common_misuses>Using as a wrench; cutting hardened wire; applying excessive force to the tips</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Wipe clean after each use</cleaning>
+      <storage>Store in a dry toolbox or hanging on a tool rack</storage>
+      <maintenance_frequency>Check jaw alignment monthly; lubricate pivot point quarterly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Pliers -->
+  <tool>
+    <tool_identification>
+      <tool_category>Pliers</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Gripping, bending, and manipulating objects with enhanced leverage and control</main_purpose>
+    </primary_function>
+    <usage_instructions>Select appropriate size for the task; grip handles firmly; align jaws squarely with workpiece; apply even pressure when gripping; avoid twisting the tool sideways</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, work gloves</required_ppe>
+      <primary_hazards>Pinch points between handles; sharp edges; flying debris</primary_hazards>
+      <common_misuses>Using as a wrench; applying excessive force; using damaged tools</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean jaws and handles after use</cleaning>
+      <storage>Store in tool chest or hanging on rack</storage>
+      <maintenance_frequency>Check jaw alignment monthly; lubricate pivot point quarterly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Cutting Pliers -->
+  <tool>
+    <tool_identification>
+      <tool_category>Cutting pliers</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Cutting wire, cables, and other materials with precision</main_purpose>
+    </primary_function>
+    <usage_instructions>Position material deep in jaws for maximum leverage; cut at right angles; apply steady pressure; keep cutting edges aligned; avoid cutting hardened materials</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, work gloves</required_ppe>
+      <primary_hazards>Flying cut pieces; sharp edges; pinch points</primary_hazards>
+      <common_misuses>Cutting materials beyond capacity; using damaged cutting edges; twisting while cutting</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean cutting edges after use</cleaning>
+      <storage>Store in tool chest with edges protected</storage>
+      <maintenance_frequency>Check cutting edges weekly; sharpen or replace when dull</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Tape Measure -->
+  <tool>
+    <tool_identification>
+      <tool_category>Tape measure</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Taking accurate measurements of distances and dimensions</main_purpose>
+    </primary_function>
+    <usage_instructions>Extend tape carefully; hook end securely; keep tape straight for accuracy; use blade lock when needed; control retraction</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses when retracting</required_ppe>
+      <primary_hazards>Cuts from tape edges; pinch hazards; tape snap-back</primary_hazards>
+      <common_misuses>Overextending tape; uncontrolled retraction; using damaged tape</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Wipe tape clean after use</cleaning>
+      <storage>Store fully retracted in dry place</storage>
+      <maintenance_frequency>Check hook alignment and tape condition monthly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Utility Knife -->
+  <tool>
+    <tool_identification>
+      <tool_category>Utility knife</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Making precise cuts in various materials with replaceable blade</main_purpose>
+    </primary_function>
+    <usage_instructions>Ensure blade is sharp and locked; cut away from body; use straight edge when needed; retract blade after use; maintain steady pressure</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Cut-resistant gloves, safety glasses</required_ppe>
+      <primary_hazards>Severe cuts; blade breakage; accidental blade deployment</primary_hazards>
+      <common_misuses>Using dull blades; cutting toward body; leaving blade extended</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean blade and handle regularly</cleaning>
+      <storage>Store with blade retracted</storage>
+      <maintenance_frequency>Replace blades when dull; check locking mechanism daily</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Calipers -->
+  <tool>
+    <tool_identification>
+      <tool_category>Calipers</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Taking precise measurements of internal and external dimensions</main_purpose>
+    </primary_function>
+    <usage_instructions>Zero instrument before use; maintain consistent pressure; keep measuring surfaces clean; use appropriate jaws for measurement type</usage_instructions>
+    <safety_considerations>
+      <required_ppe>None required for standard use</required_ppe>
+      <primary_hazards>Sharp measuring points; pinch points between jaws</primary_hazards>
+      <common_misuses>Dropping instrument; using excessive force; not zeroing before use</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean measuring surfaces after use</cleaning>
+      <storage>Store in protective case</storage>
+      <maintenance_frequency>Calibrate regularly; oil sliding surfaces monthly</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Backsaw -->
+  <tool>
+    <tool_identification>
+      <tool_category>Backsaw</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Making precise, straight cuts in wood with reinforced blade</main_purpose>
+    </primary_function>
+    <usage_instructions>Mark cutting line clearly; start cut with light strokes; maintain consistent angle; let saw do the work; support workpiece properly</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, dust mask</required_ppe>
+      <primary_hazards>Cuts from sharp teeth; wood splinters; dust inhalation</primary_hazards>
+      <common_misuses>Forcing the cut; not supporting work; using for rough cutting</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean teeth after use</cleaning>
+      <storage>Store hanging or flat with blade protected</storage>
+      <maintenance_frequency>Check teeth sharpness monthly; oil blade to prevent rust</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Drill -->
+  <tool>
+    <tool_identification>
+      <tool_category>Drill</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Creating holes in various materials using rotating drill bits</main_purpose>
+    </primary_function>
+    <usage_instructions>Select appropriate bit; secure workpiece; start slowly to establish position; maintain steady pressure; clear debris regularly</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, hearing protection, dust mask</required_ppe>
+      <primary_hazards>Flying debris; entanglement; electrical hazards</primary_hazards>
+      <common_misuses>Using wrong bit type; excessive speed or pressure; unsecured work</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Remove dust and debris after use</cleaning>
+      <storage>Store in case with bits organized</storage>
+      <maintenance_frequency>Check cord and chuck monthly; lubricate as needed</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Handsaw -->
+  <tool>
+    <tool_identification>
+      <tool_category>Handsaw</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Cutting wood and similar materials with manual saw blade</main_purpose>
+    </primary_function>
+    <usage_instructions>Mark cutting line; start cut with light strokes; maintain 45-degree angle initially; use full blade length; let saw do the work</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, work gloves</required_ppe>
+      <primary_hazards>Cuts from teeth; wood splinters; dust inhalation</primary_hazards>
+      <common_misuses>Forcing the cut; improper blade tension; using dull blade</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean blade after use</cleaning>
+      <storage>Store hanging or flat with blade protected</storage>
+      <maintenance_frequency>Check teeth monthly; oil blade to prevent rust</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+
+  <!-- Gun -->
+  <tool>
+    <tool_identification>
+      <tool_category>Gun</tool_category>
+    </tool_identification>
+    <primary_function>
+      <main_purpose>Specialized tool for controlled application of force or materials</main_purpose>
+    </primary_function>
+    <usage_instructions>Follow specific tool type guidelines; maintain proper grip; ensure safety engaged when not in use; keep pointed in safe direction</usage_instructions>
+    <safety_considerations>
+      <required_ppe>Safety glasses, hearing protection, specific protective gear</required_ppe>
+      <primary_hazards>Accidental discharge; recoil injuries; material splashback</primary_hazards>
+      <common_misuses>Improper handling; bypassing safety features; inadequate maintenance</common_misuses>
+    </safety_considerations>
+    <maintenance_guidance>
+      <cleaning>Clean thoroughly after each use</cleaning>
+      <storage>Store in secure, locked location</storage>
+      <maintenance_frequency>Regular professional maintenance; inspect before use</maintenance_frequency>
+    </maintenance_guidance>
+  </tool>
+</tools_collection>
