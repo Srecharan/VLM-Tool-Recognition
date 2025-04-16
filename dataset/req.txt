@@ -1,0 +1,4 @@
+pandas 
+pillow 
+datasets 
+huggingface-hub
