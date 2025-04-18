@@ -192,8 +192,6 @@ def process_single_model(model_name, model_path):
 
 # Model paths
 model_paths = {
-    'qwen-l': "/home/exouser/akameswa/VLM-Tool-Recognition/training/models/qwen-l",
-    'qwen-vl': "/home/exouser/akameswa/VLM-Tool-Recognition/training/models/qwen-vl",
     'qwen-v': "/home/exouser/akameswa/VLM-Tool-Recognition/training/models/qwen-v"
 }
 
