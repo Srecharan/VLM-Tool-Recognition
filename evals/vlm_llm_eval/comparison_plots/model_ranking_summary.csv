@@ -1,0 +1,9 @@
+Rank,Model,Model Family,Fine Tuning,Average Overall Score,Number of Samples
+1,llama-l,LLaMA,Language,8.362637362637363,91
+2,qwen-vl,Qwen,Vision+Language,8.280555555555557,72
+3,qwen-v,Qwen,Vision,8.072380952380952,105
+4,qwen,Qwen,Zero-Shot,8.071428571428571,105
+5,qwen-l,Qwen,Language,7.903409090909091,88
+6,llama-vl,LLaMA,Vision+Language,7.825974025974026,77
+7,llama,LLaMA,Zero-Shot,6.179347826086956,92
+8,llama-v,LLaMA,Vision,5.926315789473684,95
