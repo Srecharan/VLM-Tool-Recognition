@@ -39,6 +39,3 @@ venv.bak/
 # OS specific files
 .DS_Store
 Thumbs.db
-
-# Generated output files
-*.png
