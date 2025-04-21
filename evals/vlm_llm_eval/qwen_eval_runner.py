@@ -11,7 +11,7 @@ import re
 import argparse
 
 # Configuration
-GEMINI_API_KEY = "AIzaSyAELVREoOEr2TnyxdOn5dt4DDQ54pQbXJQ"
+GEMINI_API_KEY = "your-new-api-key-here"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 RESULTS_DIR = "./evaluation_results"
 PLOTS_DIR = "./evaluation_plots"

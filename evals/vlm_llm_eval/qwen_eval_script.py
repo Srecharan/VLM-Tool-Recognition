@@ -7,7 +7,7 @@ import numpy as np
 from tqdm import tqdm
 
 # Gemini API configuration
-GEMINI_API_KEY = "AIzaSyAELVREoOEr2TnyxdOn5dt4DDQ54pQbXJQ"
+GEMINI_API_KEY = "your-new-api-key-here"
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
 
 # File paths
