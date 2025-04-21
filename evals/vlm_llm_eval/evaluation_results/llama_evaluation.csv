@@ -1,0 +1,93 @@
+tool_score,function_score,safety_score,misuse_score,overall_score,filename,tool_name,model
+6,9,7,9,8.0,000096_jpg.rf.c9f3a9d623f59933b29889153b591624.jpg,**Tool Description**,llama
+10,7,6,9,8.0,20231102151116_jpg.rf.3e27d6564f71cc7f6b6d6965f8eb1532.jpg,1. Wrench,llama
+10,9,8,8,8.0,71EJRSJIWD18_jpg.rf.750cc2f5939a769f841399c766636ab6.jpg,*   **Hammer**,llama
+9,6,1,8,5.0,bigstock_Tools_645470-CLASS-IMAGE_jpg.rf.061c62932440f2f5242461ba5ff7ed0f.jpg,*   **Wrench (Top Center)**,llama
+6,8,5,8,6.0,2023-08-17_12-09-13_png_jpg.rf.c71a42b2dd00b571ab6e9ab1418a1a99.jpg,**Safety Considerations**:,llama
+10,9,7,8,8.0,20231102151220_jpg.rf.87a52dc3f4c065ec4498d09fa78bb3c4.jpg,**Tool Description**,llama
+10,10,8,9,9.0,screw_driver865_jpg.rf.3406afb30f36b27cd021e332f4958172.jpg,\,llama
+6,7,5,3,5.0,nipper02_jpg.rf.dc201d4c95632485cff6c2d1779f859b.jpg,**Tool Description**,llama
+6,7,6,8,7.0,hammer12_jpg.rf.5b96d95627e08a203dfb085ea1df9d51.jpg,### Tool Description,llama
+0,0,0,0,0.0,top-view-steel-hammer-with-other-construction-elements-tools_23-2150576463_jpg.rf.e5044844d87601da09f1e27d7b77b2c2.jpg,**Tool Description**,llama
+10,8,4,9,7.0,ToolsCollection3dmodels002-jpg89c5b487-32e8-4687-b2a4-b2cddc7470c9DefaultHQ_jpg.rf.b8af4011ac23aa301625e02f20f7a1be.jpg,### Screwdrivers,llama
+10,8,7,8,8.0,20231102151542_jpg.rf.2569bd2adbe09adfa51f0eaf2e588a6a.jpg,*   **Hammer**,llama
+10,9,8,9,9.0,screw_driver803_jpg.rf.f80005efd18f7182e32bbbcbac9734e5.jpg,*   **Wrench:**,llama
+5,7,4,6,5.0,20231102151717_jpg.rf.be6b7fcc5b072be7b4a8f60047d73ec6.jpg,### Tool Description,llama
+0,0,0,0,0.0,D_NQ_NP_653238-MLV42032733688_062020-F_jpg.rf.df22c3eb997a8a26215a5a582a387d4e.jpg,**Tool Description**,llama
+7,9,6,8,7.0,2023-08-17_12-09-41_png_jpg.rf.0037e9d3ccfa30488415a220fc1a81b9.jpg,**Tool Description**,llama
+10,8,8,9,8.0,20231102151630_jpg.rf.9e236c709153402d629bf24e058e92ef.jpg,* A hammer,llama
+10,9,5,1,5.0,2023-08-17_12-09-00_png_jpg.rf.db5e179419ca4d0c5d488a98caa60f66.jpg,**Safety Considerations**,llama
+9,8,2,1,4.0,20231102151436_jpg.rf.a09cb270a073344707a09ae3fd4d662b.jpg,**Main  Gun**,llama
+7,6,8,7,7.0,20231102151614_jpg.rf.564d314d67f7839ddcfa114689d47631.jpg,\,llama
+10,8,6,7,7.0,000091_jpg.rf.eb36dba75f6fdf7c59c162fd7643a578.jpg,**Tool Description**,llama
+10,9,1,1,4.0,caliper-25-_jpg.rf.35773df410d16919c983cc35634f2dc5.jpg,*   **Vernier Caliper**,llama
+6,9,7,8,7.0,000005_jpg.rf.beef5bb1108c24958b8fde60d8c17b10.jpg,**Tool Description**,llama
+10,8,6,9,8.0,20231102151652_jpg.rf.d1736ca8fbff5c834435476436abfbcd.jpg,* Pliers,llama
+10,3,2,2,4.0,2023-08-17_17-09-23_png_jpg.rf.1a55a7cab63039f1727a2dcc50aba138.jpg,* **Screwdriver**,llama
+9,8,2,1,4.0,51DWCz6ft0L-_AC_SX679__jpg.rf.04330b13f23625bcab369de9836cc652.jpg,### Main  Pliers,llama
+8,9,7,8,8.0,20231102151658_jpg.rf.2597afc2568c822678c90e7451c65373.jpg,**Tool Description**,llama
+7,9,5,8,7.0,caliper-86-_jpg.rf.35825d6fb320059a72128f7242bed031.jpg,**Tool Description**,llama
+10,9,7,8,8.0,2023-08-17_17-07-37_png_jpg.rf.8780b6dfc3f61e0bcd327428130755e1.jpg,**Tool 1: Adjustable Wrench**,llama
+2,5,3,1,3.0,screw_driver811_jpg.rf.93e0d1ce711db84254be8c6889c8101f.jpg,*   **Tool Description**,llama
+10,10,7,9,8.0,tool-294-_jpg.rf.3d4b487ae7aa7b5ee6d8810857a59b1e.jpg,**Tool Description**,llama
+10,10,6,9,8.0,screw_driver948_jpg.rf.5a385b89b9dc072734a3fed2faa94137.jpg,*   **Screwdriver (Middle)**,llama
+10,9,7,8,8.0,2023-08-17_17-08-16_png_jpg.rf.5b1887041352082c05b0b60b2d184fb3.jpg,* Adjustable wrench,llama
+10,9,6,8,8.0,000152_jpg.rf.7cebcba9aab472bb37bb734641039462.jpg,**Tool Description**,llama
+3,4,5,7,5.0,20231102150443_jpg.rf.82c2f1bd53098cb60e5ad96dc794aa0a.jpg,**Tool Analysis**,llama
+10,9,7,8,8.0,Hammer-1117-_JPEG_jpg.rf.d71e4cab97b08b4aa8581d69c7bab9c6.jpg,### Tool 1: Hammer,llama
+10,9,7,3,7.0,radiopliers04_jpg.rf.ff2ebbfe1e8a51c8cca5b860d3b104ed.jpg,*   **Tool Description**,llama
+7,9,6,8,7.0,istockphoto-184978759-612x612_jpg.rf.83f21974402cb3c19ee57835fcfbc503.jpg,**Tool Description**,llama
+8,9,7,9,8.0,20231102151617_jpg.rf.1a0373bbfaef7e9a5d997c2b30d01c54.jpg,**Tool Description**,llama
+7,9,1,5,4.0,caliper-72-_jpg.rf.8a89c4f51676295ca19d923f7407011d.jpg,**Tool Description**,llama
+10,8,7,3,7.0,000315_jpg.rf.b1b764aee65ff27faebb8158c2d2d1a4.jpg,**Tool Description**,llama
+6,8,7,5,6.0,tool-150-_jpg.rf.9ae37f1234550ece8d588e8874db1487.jpg,**Tool Description**,llama
+6,7,3,5,5.0,kit11_jpg.rf.60e27eb071c591a1c889e7e7763fdceb.jpg,**Tool Description**,llama
+2,4,1,1,2.0,15_jpg.rf.930ebc988a748bc6af76ce92c50d7125.jpg,**Tool Description**,llama
+10,9,7,8,8.0,hammer21_jpg.rf.f8131a61c317cc607ef6cb6fdca39936.jpg,**Main Tool Name:** Hatchet,llama
+10,9,8,9,9.0,000156_jpg.rf.68d194d179bee8aaf3a0c75ee85c26b7.jpg,**Pliers**,llama
+10,8,7,7,8.0,Hammer-1098-_JPEG_jpg.rf.0b1056561d7824b20a03154fd5336d26.jpg,**Tool Description**,llama
+2,3,5,1,3.0,elena-rouame-9JU2CKqtw0M-unsplash_jpg.rf.38d024dba3014eaca0dfe07fcd595d96.jpg,**Tool Description**,llama
+10,9,7,8,8.0,hammer31_jpg.rf.139e942be7c0681f4bc42fd819c129f3.jpg,### Hammer,llama
+10,9,5,8,7.0,2023-08-17_12-09-22_png_jpg.rf.c982c35b694347c2332eeb0cf02a5cd4.jpg,**Tool Description**,llama
+5,9,2,8,5.0,Screwdriver-535-_JPEG_jpg.rf.2f8e1654a786b2f2cd8a4a27cc1a90d3.jpg,**Tool Description**,llama
+9,10,2,1,3.0,screw_driver850_jpg.rf.2d3ece146ebf7765b2babe0b4656d9b9.jpg,\,llama
+6,7,4,6,5.0,images227_jpg.rf.ae2f52e143c97fdd8b8aea7e7401f043.jpg,**Tool Description**,llama
+10,9,3,9,6.0,kit5_jpg.rf.58f45c9167c1e66037cafd7c365ca970.jpg,* **Screwdriver**,llama
+6,7,7,8,7.0,2023-08-17_12-11-01_png_jpg.rf.75c24aff98378f113eef0678071959c8.jpg,**Tool Description**,llama
+2,1,6,6,4.0,2023-08-17_17-09-17_png_jpg.rf.3d7602d7e2bfb79dd43ee33c6cec427b.jpg,* Required PPE: Gloves,llama
+10,9,7,8,8.0,hammer22_jpg.rf.baf0d8024ab1c91e710f588241994e51.jpg,### Main  Hammer,llama
+10,9,7,8,8.0,20231102150335_jpg.rf.db50aa725ca2b905b90ccf7552262cc5.jpg,**Pliers**,llama
+10,8,8,9,8.5,20231102151532_jpg.rf.36f3c4b8f2ac84ab651781e8073d2fb1.jpg,*   **Hammer**,llama
+10,9,7,7,8.0,20231102151610_jpg.rf.ec28f055a3248cb3366bf77113417955.jpg,### Power Drill,llama
+10,8,5,2,6.0,2023-08-17_17-09-01_png_jpg.rf.69dacda33c1867346b2e8eba4d43253f.jpg,**Tool Description**,llama
+10,10,7,9,9.0,2_jpg.rf.1a4e39b66bee0b0974ced612d647576e.jpg,**Tool Description**,llama
+1,3,0,0,1.0,20231102150431_jpg.rf.b613f1d66febf01f5368b47a834cee52.jpg,*   **Top Tool**,llama
+10,7,2,1,4.0,caliper-41-_jpg.rf.707a536158145b4ea7b7687832a80830.jpg,**Tool Description**,llama
+10,8,5,7,7.0,20231102151530_jpg.rf.14f2f88084766ae42670f68683511160.jpg,**1. Pliers**,llama
+6,7,6,5,6.0,20231102151209_jpg.rf.da3cf1a320e9fa0f9ed0c329287a5360.jpg,\,llama
+3,6,4,1,3.0,000195_jpg.rf.722cdd56b465474d91ca44e53b7e2d29.jpg,*   **Tool Description**,llama
+7,9,6,8,7.0,pliers06_jpg.rf.91880f864e0857ee720dd3dca6b615ec.jpg,**Main ** Pliers,llama
+8,9,6,7,7.0,000520_jpg.rf.f237d09a81d613f39bbc8e5a00e4f35c.jpg,**Tool Description**,llama
+9,10,5,8,7.0,20231102151001_jpg.rf.fe5f2289b1734da1ebdfe595582d9748.jpg,**Main  Screwdriver**,llama
+10,9,7,8,8.0,2023-08-17_17-10-22_png_jpg.rf.87228a2c73a00dc8ee30efb94def899f.jpg,**Tool 1: Hammer**,llama
+10,9,6,3,6.0,000084_jpg.rf.f281d15c30ff5c995777aa42c9ce4cb7.jpg,**Tool Description**,llama
+10,8,7,9,8.0,20231102150518_jpg.rf.6057d07c07eefb50c0c373ecce9b3545.jpg,**Tool 1: Pliers**,llama
+3,8,1,1,3.0,000261_jpg.rf.0c47165faefd00ae62052bf27ca4b5de.jpg,**Tool Description**,llama
+5,8,6,7,6.0,000145_jpg.rf.21134e0b77c4944ad53c78f4263a83d9.jpg,**Tool Description**,llama
+6,7,6,3,5.0,images121_jpg.rf.05433c537d60ad160f311fac5b16ca1c.jpg,**Tool Description**,llama
+1,8,1,1,2.0,wrench08_jpg.rf.56bfea3c2839b590adc12f2a74a2c91c.jpg,**Tool Description**,llama
+3,7,6,4,5.0,images201_jpg.rf.a36de98c5c3855803aa85603b6098bdf.jpg,**Tool Description**,llama
+3,8,2,7,5.0,20231102150132_jpg.rf.95f7bdcbc74fc6e8ef762d411dd6766d.jpg,**Tool Description**,llama
+6,8,3,7,6.0,8_jpg.rf.4b0d2ad81139888995e0f4fbfbb45340.jpg,**Tool Description**,llama
+9,7,3,2,5.0,hammer16_jpg.rf.5cfa1af36b3a642fa4004084cd73372f.jpg,**Tool Description**,llama
+10,1,0,0,1.0,20231102151710_jpg.rf.9cfe54b2abbda0b40494e048b0464b47.jpg,**Tool 1: Pliers**,llama
+10,9,7,8,8.0,2023-08-17_17-08-04_png_jpg.rf.08e2df1da7f75ce0f278c57dfdf8606b.jpg,**Tool 1: Pliers**,llama
+9,10,8,9,9.0,screw_driver823_jpg.rf.5d9bebc0afbec27cb82365a7996c9ccc.jpg,\,llama
+9,8,5,9,7.0,2023-08-17_17-09-38_png_jpg.rf.8c036c9ddaf9e9bf1cb84b890666d98b.jpg,**Tool Description**,llama
+6,7,7,8,7.0,20231102151635_jpg.rf.7e862ef7b6a57e4eeff7babafc11bafc.jpg,**Tool Description**,llama
+10,10,6,9,8.0,plusdriver08_jpg.rf.3ab71e106c113d975809abc6b71500f5.jpg,### Phillips Screwdriver,llama
+10,7,7,8,8.0,screw_driver852_jpg.rf.cfc1bae2ba7e8f18ab8f6091d1a5e8b0.jpg,*   **Hammer**,llama
+1,1,0,0,0.0,2023-08-14_15-34-37_png_jpg.rf.b3a53dc1d91f36b7058f47d732c7178d.jpg,"* A long, slender shaft",llama
+9,9,7,8,8.0,screw_driver849_jpg.rf.7b6ddf06aa9802765968895f6208827f.jpg,**Tool Description**,llama
+10,9,7,8,8.0,2023-08-17_17-10-01_png_jpg.rf.725f53b4c3a4750c76a2181310a80d91.jpg,1. **Adjustable Wrench**:,llama
+10,10,7,9,8.0,KakaoTalk_20230405_200152554_jpg.rf.ca9deec0fa78b1356320698e3be72971.jpg,*   **Tool Description**,llama
