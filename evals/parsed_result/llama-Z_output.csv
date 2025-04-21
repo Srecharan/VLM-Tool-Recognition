@@ -1,0 +1,271 @@
+filename,bounding_boxes
+000096_jpg.rf.c9f3a9d623f59933b29889153b591624.jpg,[]
+20231102151116_jpg.rf.3e27d6564f71cc7f6b6d6965f8eb1532.jpg,[]
+71EJRSJIWD18_jpg.rf.750cc2f5939a769f841399c766636ab6.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.05, 0.04, 0.82, 0.83]}, {""tool"": ""Wrench"", ""bbox"": [0.28, 0.36, 0.49, 0.76]}, {""tool"": ""Open-End Wrench"", ""bbox"": [0.26, 0.39, 0.40, 0.69]}, {""tool"": ""Straight Bar"", ""bbox"": [0.09, 0.40, 0.24, 0.61]}]"
+bigstock_Tools_645470-CLASS-IMAGE_jpg.rf.061c62932440f2f5242461ba5ff7ed0f.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.12, 0.03, 0.38, 0.28]}, {""tool"": ""Wrench"", ""bbox"": [0.25, 0.18, 0.45, 0.33]}, {""tool"": ""Hammer"", ""bbox"": [0.45, 0.18, 0.84, 0.54]}, {""tool"": ""Pliers"", ""bbox"": [0.13, 0.43, 0.45, 0.63]}, {""tool"": ""Wrench"", ""bbox"": [0.35, 0.43, 0.72, 0.63]}]"
+2023-08-17_12-09-13_png_jpg.rf.c71a42b2dd00b571ab6e9ab1418a1a99.jpg,"[{""tool"": ""Flathead Screwdriver"", ""bbox"": [0.30, 0.32, 0.75, 0.56]}]"
+20231102151220_jpg.rf.87a52dc3f4c065ec4498d09fa78bb3c4.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.32, 0.32, 0.57, 0.68]}, {""tool"": ""Pipe"", ""bbox"": [0.31, 0.53, 0.63, 0.83]}, {""tool"": ""Screwdriver"", ""bbox"": [0.33, 0.55, 0.54, 0.70]}, {""tool"": ""Pliers"", ""bbox"": [0.34, 0.58, 0.64, 0.76]}, {""tool"": ""Wrench"", ""bbox"": [0.39, 0.58, 0.60, 0.75]}]"
+screw_driver865_jpg.rf.3406afb30f36b27cd021e332f4958172.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.03, 0.03, 0.97, 0.97]}]"
+20231102151244_jpg.rf.2ebfef8d2a7ba2e33c0e9aa16b0890a0.jpg,"[{""tool"": ""Pliers"", ""bbox"": [341, 374, 550, 623]}]"
+nipper02_jpg.rf.dc201d4c95632485cff6c2d1779f859b.jpg,"[{""tool"": ""Wire Cutters"", ""bbox"": [0.35, 0.28, 0.85, 0.66]}]"
+hammer12_jpg.rf.5b96d95627e08a203dfb085ea1df9d51.jpg,[]
+top-view-steel-hammer-with-other-construction-elements-tools_23-2150576463_jpg.rf.e5044844d87601da09f1e27d7b77b2c2.jpg,[]
+ToolsCollection3dmodels002-jpg89c5b487-32e8-4687-b2a4-b2cddc7470c9DefaultHQ_jpg.rf.b8af4011ac23aa301625e02f20f7a1be.jpg,[]
+20231102151542_jpg.rf.2569bd2adbe09adfa51f0eaf2e588a6a.jpg,[]
+screw_driver803_jpg.rf.f80005efd18f7182e32bbbcbac9734e5.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.17, 0.06, 0.83, 0.76]}, {""tool"": ""Clavicle Hammer"", ""bbox"": [0.59, 0.20, 0.99, 0.57]}]"
+20231102151717_jpg.rf.be6b7fcc5b072be7b4a8f60047d73ec6.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.12, 0.16, 0.42, 0.58]}, {""tool"": ""Hammer"", ""bbox"": [0.26, 0.32, 0.58, 0.72]}, {""tool"": ""Wrench"", ""bbox"": [0.36, 0.42, 0.60, 0.74]}, {""tool"": ""Screwdriver"", ""bbox"": [0.08, 0.14, 0.30, 0.46]}, {""tool"": ""Utility Knife"", ""bbox"": [0.14, 0.20, 0.38, 0.54]}, {""tool"": ""Drill"", ""bbox"": [0.18, 0.24, 0.48, 0.62]}, {""tool"": ""Tape Measure"", ""bbox"": [0.22, 0.28, 0.50, 0.66]}, {""tool"": ""Level"", ""bbox"": [0.26, 0.32, 0.58, 0.72]}, {""tool"": ""Safety Glasses"", ""bbox"": [0.30, 0.36, 0.60, 0.74]}, {""tool"": ""Workshop"", ""bbox"": [0.34, 0.40, 0.68, 0.84]}]"
+D_NQ_NP_653238-MLV42032733688_062020-F_jpg.rf.df22c3eb997a8a26215a5a582a387d4e.jpg,[]
+2023-08-17_12-09-41_png_jpg.rf.0037e9d3ccfa30488415a220fc1a81b9.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.266, 0.139, 0.698, 0.643]}]"
+20231102151630_jpg.rf.9e236c709153402d629bf24e058e92ef.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.31, 0.28, 0.61, 0.55]}, {""tool"": ""Wrench"", ""bbox"": [0.41, 0.28, 0.73, 0.55]}, {""tool"": ""Saw"", ""bbox"": [0.47, 0.35, 0.87, 0.72]}]"
+2023-08-17_12-09-00_png_jpg.rf.db5e179419ca4d0c5d488a98caa60f66.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.12, 0.16, 0.63, 0.84]}]"
+20231102151436_jpg.rf.a09cb270a073344707a09ae3fd4d662b.jpg,"[{""tool"": ""Handgun"", ""bbox"": [0.365, 0.415, 0.475, 0.635]}]"
+20231102151614_jpg.rf.564d314d67f7839ddcfa114689d47631.jpg,[]
+000091_jpg.rf.eb36dba75f6fdf7c59c162fd7643a578.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.400, 0.070, 0.790, 0.470]}]"
+caliper-25-_jpg.rf.35773df410d16919c983cc35634f2dc5.jpg,[]
+000005_jpg.rf.beef5bb1108c24958b8fde60d8c17b10.jpg,[]
+20231102151652_jpg.rf.d1736ca8fbff5c834435476436abfbcd.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Hammer"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Screwdriver"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Wrench"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Utility Knife"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Level"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}, {""tool"": ""Drill"", ""bbox"": [0.02, 0.12, 0.35, 0.67]}]"
+2023-08-17_17-09-23_png_jpg.rf.1a55a7cab63039f1727a2dcc50aba138.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [4.5, 12, 4.5, 12]}, {""tool"": ""Needle Nose Pliers"", ""bbox"": [6, 16, 6, 16]}, {""tool"": ""Hoe"", ""bbox"": [12, 36, 12, 36]}, {""tool"": ""Hammer"", ""bbox"": [14, 30, 14, 30]}]"
+screw_driver834_jpg.rf.b25328f51ff341a2f1e0bdea53195846.jpg,[]
+51DWCz6ft0L-_AC_SX679__jpg.rf.04330b13f23625bcab369de9836cc652.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.050, 0.040, 1.000, 0.980]}, {""tool"": ""Pliers"", ""bbox"": [0.160, 0.140, 0.930, 0.920]}]"
+20231102150827_jpg.rf.e9b4c3946f3d555f35e8e69b737c039a.jpg,[]
+20231102151658_jpg.rf.2597afc2568c822678c90e7451c65373.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.075, 0.180, 0.135, 0.265]}, {""tool"": ""Tape Measure"", ""bbox"": [0.180, 0.270, 0.275, 0.400]}, {""tool"": ""Level"", ""bbox"": [0.315, 0.220, 0.415, 0.460]}, {""tool"": ""Pliers"", ""bbox"": [0.335, 0.255, 0.455, 0.425]}, {""tool"": ""Screwdriver"", ""bbox"": [0.435, 0.195, 0.555, 0.395]}, {""tool"": ""Hammer"", ""bbox"": [0.505, 0.195, 0.595, 0.395]}, {""tool"": ""Tape Measure"", ""bbox"": [0.625, 0.215, 0.745, 0.395]}, {""tool"": ""Level"", ""bbox"": [0.635, 0.245, 0.785, 0.405]}]"
+caliper-86-_jpg.rf.35825d6fb320059a72128f7242bed031.jpg,"[{""tool"": ""Vernier Caliper"", ""bbox"": [0.23, 0.17, 0.86, 0.61]}]"
+2023-08-17_17-07-37_png_jpg.rf.8780b6dfc3f61e0bcd327428130755e1.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.04, 0.03, 0.74, 0.77]}, {""tool"": ""Hammer"", ""bbox"": [0.40, 0.04, 0.64, 0.80]}, {""tool"": ""Pliers"", ""bbox"": [0.47, 0.26, 0.73, 0.56]}, {""tool"": ""Awl"", ""bbox"": [0.49, 0.16, 0.75, 0.51]}]"
+screw_driver811_jpg.rf.93e0d1ce711db84254be8c6889c8101f.jpg,[]
+tool-294-_jpg.rf.3d4b487ae7aa7b5ee6d8810857a59b1e.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.01, 0.02, 0.98, 0.99]}]"
+screw_driver948_jpg.rf.5a385b89b9dc072734a3fed2faa94137.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.27, 0.14, 0.52, 0.35]}, {""tool"": ""Screwdriver"", ""bbox"": [0.31, 0.26, 0.55, 0.46]}, {""tool"": ""Screwdriver"", ""bbox"": [0.31, 0.38, 0.60, 0.55]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [0.39, 0.23, 0.66, 0.46]}]"
+2023-08-17_17-08-16_png_jpg.rf.5b1887041352082c05b0b60b2d184fb3.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.02, 0.01, 0.42, 0.74]}, {""tool"": ""Screwdriver with a Long Handle"", ""bbox"": [0.48, 0.02, 0.72, 0.68]}, {""tool"": ""Screwdriver with a Short Handle"", ""bbox"": [0.50, 0.03, 0.82, 0.71]}, {""tool"": ""Hammer"", ""bbox"": [0.52, 0.04, 0.92, 0.78]}, {""tool"": ""Pliers"", ""bbox"": [0.54, 0.06, 0.94, 0.84]}]"
+000152_jpg.rf.7cebcba9aab472bb37bb734641039462.jpg,[]
+20231102150443_jpg.rf.82c2f1bd53098cb60e5ad96dc794aa0a.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.15, 0.05, 0.78, 0.65]}, {""tool"": ""Hammer"", ""bbox"": [0.03, 0.25, 0.83, 0.67]}, {""tool"": ""Pliers"", ""bbox"": [0.00, 0.45, 0.73, 0.72]}, {""tool"": ""Screwdriver"", ""bbox"": [0.05, 0.30, 0.66, 0.72]}, {""tool"": ""Saw"", ""bbox"": [0.01, 0.20, 0.75, 0.72]}]"
+Hammer-1117-_JPEG_jpg.rf.d71e4cab97b08b4aa8581d69c7bab9c6.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.08, 0.04, 0.96, 0.88]}, {""tool"": ""Pliers"", ""bbox"": [0.22, 0.32, 0.64, 0.66]}, {""tool"": ""Screwdriver"", ""bbox"": [0.32, 0.36, 0.72, 0.78]}, {""tool"": ""Utility Knife"", ""bbox"": [0.42, 0.46, 0.84, 0.90]}, {""tool"": ""Wire Cutter"", ""bbox"": [0.58, 0.60, 0.92, 0.94]}]"
+radiopliers04_jpg.rf.ff2ebbfe1e8a51c8cca5b860d3b104ed.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.37, 0.22, 0.96, 0.81]}]"
+istockphoto-184978759-612x612_jpg.rf.83f21974402cb3c19ee57835fcfbc503.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.044, 0.144, 0.934, 0.740]}]"
+20231102151617_jpg.rf.1a0373bbfaef7e9a5d997c2b30d01c54.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.357, 0.384, 0.450, 0.511]}]"
+caliper-37-_jpg.rf.81acb275a1ed8aa7bd9ec99efb169a96.jpg,[]
+arrangement-yellow-tools-top-view-with-copy-space_23-2148393100_jpg.rf.37025461e2444dd8f2819ffb610e12e3.jpg,[]
+caliper-72-_jpg.rf.8a89c4f51676295ca19d923f7407011d.jpg,"[{""tool"": ""Vernier Caliper"", ""bbox"": [0.07, 0.15, 1.03, 0.98]}]"
+000315_jpg.rf.b1b764aee65ff27faebb8158c2d2d1a4.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.027, 0.045, 0.763, 0.879]}]"
+tool-150-_jpg.rf.9ae37f1234550ece8d588e8874db1487.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.21, 0.21, 0.64, 0.65]}]"
+kit11_jpg.rf.60e27eb071c591a1c889e7e7763fdceb.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.40, 0.32, 0.59, 0.48]}, {""tool"": ""Hammer"", ""bbox"": [0.41, 0.35, 0.60, 0.45]}, {""tool"": ""Screwdriver"", ""bbox"": [0.39, 0.34, 0.57, 0.42]}, {""tool"": ""Scissors"", ""bbox"": [0.41, 0.38, 0.56, 0.44]}, {""tool"": ""Tape"", ""bbox"": [0.46, 0.36, 0.62, 0.45]}]"
+15_jpg.rf.930ebc988a748bc6af76ce92c50d7125.jpg,"[{""tool"": ""Bolt"", ""bbox"": [0.25, 0.18, 0.85, 0.64]}]"
+hammer21_jpg.rf.f8131a61c317cc607ef6cb6fdca39936.jpg,[]
+000156_jpg.rf.68d194d179bee8aaf3a0c75ee85c26b7.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.045, 0.042, 0.999, 0.755]}]"
+Hammer-1098-_JPEG_jpg.rf.0b1056561d7824b20a03154fd5336d26.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.07, 0.11, 0.72, 0.85]}]"
+elena-rouame-9JU2CKqtw0M-unsplash_jpg.rf.38d024dba3014eaca0dfe07fcd595d96.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.420, 0.420, 0.790, 0.660]}]"
+Wrench-35-_JPEG_jpg.rf.ddaa711509ec05b3e63354c0cdad6854.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.05, 0.15, 0.95, 0.90]}]"
+hammer31_jpg.rf.139e942be7c0681f4bc42fd819c129f3.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.40, 0.05, 0.63, 0.32]}, {""tool"": ""Wooden Board"", ""bbox"": [0.15, 0.25, 0.86, 0.92]}, {""tool"": ""Handsaw"", ""bbox"": [0.05, 0.35, 0.63, 0.51]}, {""tool"": ""Nails"", ""bbox"": [0.33, 0.45, 0.51, 0.51]}, {""tool"": ""Safety Gloves"", ""bbox"": [0.35, 0.23, 0.63, 0.45]}, {""tool"": ""Safety Goggles"", ""bbox"": [0.27, 0.23, 0.42, 0.43]}]"
+2023-08-17_12-09-22_png_jpg.rf.c982c35b694347c2332eeb0cf02a5cd4.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.026, 0.115, 0.624, 0.665]}]"
+Screwdriver-535-_JPEG_jpg.rf.2f8e1654a786b2f2cd8a4a27cc1a90d3.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.10, 0.05, 0.99, 0.70]}]"
+screw_driver850_jpg.rf.2d3ece146ebf7765b2babe0b4656d9b9.jpg,"[{""tool"": ""Flathead Screwdriver"", ""bbox"": [0.30, 0.21, 0.61, 0.74]}]"
+images227_jpg.rf.ae2f52e143c97fdd8b8aea7e7401f043.jpg,"[{""tool"": ""Pliers and Screwdriver Set"", ""bbox"": [0.025, 0.021, 0.419, 0.655]}]"
+kit5_jpg.rf.58f45c9167c1e66037cafd7c365ca970.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.05, 0.27, 0.55, 0.44]}, {""tool"": ""Hammer"", ""bbox"": [0.35, 0.25, 0.75, 0.52]}, {""tool"": ""Pliers"", ""bbox"": [0.45, 0.37, 0.69, 0.58]}, {""tool"": ""Wrench"", ""bbox"": [0.45, 0.38, 0.70, 0.57]}, {""tool"": ""Tape Measure"", ""bbox"": [0.15, 0.41, 0.55, 0.53]}, {""tool"": ""Utility Knife"", ""bbox"": [0.25, 0.29, 0.55, 0.46]}]"
+2023-08-17_12-11-01_png_jpg.rf.75c24aff98378f113eef0678071959c8.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.037, 0.037, 0.193, 0.243]}, {""tool"": ""Pliers (Pointed Tip)"", ""bbox"": [0.251, 0.037, 0.461, 0.223]}, {""tool"": ""Hammer"", ""bbox"": [0.475, 0.045, 0.635, 0.251]}, {""tool"": ""Screwdriver (Straight)"", ""bbox"": [0.675, 0.043, 0.787, 0.213]}, {""tool"": ""Adjustable Wrench (Open-Ended)"", ""bbox"": [0.689, 0.044, 0.901, 0.245]}]"
+2023-08-17_17-09-17_png_jpg.rf.3d7602d7e2bfb79dd43ee33c6cec427b.jpg,"[{""tool"": ""Needle-nose Pliers"", ""bbox"": [0.40, 0.18, 0.48, 0.68]}, {""tool"": ""Screwdriver with Awl Tip"", ""bbox"": [0.47, 0.13, 0.60, 0.73]}, {""tool"": ""Hammer"", ""bbox"": [0.37, 0.22, 0.61, 0.86]}]"
+000146_jpg.rf.1729feeb906519b67efac0823023b723.jpg,[]
+hammer22_jpg.rf.baf0d8024ab1c91e710f588241994e51.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.024, 0.041, 0.444, 0.641]}]"
+20231102150335_jpg.rf.db50aa725ca2b905b90ccf7552262cc5.jpg,"[{""tool"": ""A collection of hand tools including pliers, wrenches, and other mechanical tools."", ""bbox"": [0.014, 0.023, 0.935, 0.977]}]"
+20231102151532_jpg.rf.36f3c4b8f2ac84ab651781e8073d2fb1.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.028, 0.041, 0.112, 0.161]}, {""tool"": ""Screwdriver"", ""bbox"": [0.166, 0.042, 0.314, 0.155]}, {""tool"": ""Pliers"", ""bbox"": [0.292, 0.042, 0.422, 0.169]}, {""tool"": ""Wrench"", ""bbox"": [0.440, 0.041, 0.596, 0.161]}, {""tool"": ""Tape Measure"", ""bbox"": [0.612, 0.041, 0.732, 0.161]}, {""tool"": ""Drill"", ""bbox"": [0.752, 0.042, 0.860, 0.161]}]"
+20231102151610_jpg.rf.ec28f055a3248cb3366bf77113417955.jpg,"[{""tool"": ""Power Drill"", ""bbox"": [0.05, 0.05, 0.45, 0.55]}]"
+2023-08-17_17-09-01_png_jpg.rf.69dacda33c1867346b2e8eba4d43253f.jpg,[]
+2_jpg.rf.1a4e39b66bee0b0974ced612d647576e.jpg,[]
+20231102150431_jpg.rf.b613f1d66febf01f5368b47a834cee52.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.07, 0.05, 0.37, 0.55]}, {""tool"": ""Pliers with Long Nose"", ""bbox"": [0.38, 0.13, 0.58, 0.57]}, {""tool"": ""Hacksaw"", ""bbox"": [0.39, 0.05, 0.71, 0.55]}]"
+caliper-41-_jpg.rf.707a536158145b4ea7b7687832a80830.jpg,"[{""tool"": ""Vernier Caliper"", ""bbox"": [0.25, 0.22, 0.92, 0.53]}]"
+20231102151530_jpg.rf.14f2f88084766ae42670f68683511160.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.035, 0.045, 0.105, 0.105]}, {""tool"": ""Screwdriver"", ""bbox"": [0.125, 0.105, 0.195, 0.195]}, {""tool"": ""Hammer"", ""bbox"": [0.245, 0.105, 0.365, 0.195]}, {""tool"": ""Pliers with Wrench"", ""bbox"": [0.345, 0.045, 0.445, 0.105]}, {""tool"": ""Screwdrivers Set"", ""bbox"": [0.445, 0.105, 0.545, 0.195]}]"
+20231102151209_jpg.rf.da3cf1a320e9fa0f9ed0c329287a5360.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.41, 0.44, 0.58, 0.73]}]"
+000195_jpg.rf.722cdd56b465474d91ca44e53b7e2d29.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.01, 0.01, 0.63, 0.92]}]"
+pliers06_jpg.rf.91880f864e0857ee720dd3dca6b615ec.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.17, 0.23, 0.93, 0.63]}]"
+000520_jpg.rf.f237d09a81d613f39bbc8e5a00e4f35c.jpg,"[{""tool"": ""Wrenches"", ""bbox"": [0, 0, 0.5, 0.5]}]"
+20231102151001_jpg.rf.fe5f2289b1734da1ebdfe595582d9748.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.24, 0.35, 0.47, 0.67]}, {""tool"": ""Pliers"", ""bbox"": [0.29, 0.42, 0.49, 0.58]}, {""tool"": ""Wrench"", ""bbox"": [0.22, 0.36, 0.45, 0.56]}]"
+2023-08-17_17-10-22_png_jpg.rf.87228a2c73a00dc8ee30efb94def899f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.07, 0.08, 0.34, 0.66]}, {""tool"": ""Adjustable Wrench"", ""bbox"": [0.37, 0.07, 0.58, 0.70]}, {""tool"": ""Screwdriver"", ""bbox"": [0.59, 0.05, 0.74, 0.61]}]"
+000084_jpg.rf.f281d15c30ff5c995777aa42c9ce4cb7.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.19, 0.10, 0.87, 0.63]}]"
+20231102150518_jpg.rf.6057d07c07eefb50c0c373ecce9b3545.jpg,[]
+000261_jpg.rf.0c47165faefd00ae62052bf27ca4b5de.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.05, 0.03, 0.98, 0.52]}]"
+000145_jpg.rf.21134e0b77c4944ad53c78f4263a83d9.jpg,"[{""tool"": ""pliers"", ""bbox"": [0.23, 0.07, 0.99, 0.49]}]"
+images121_jpg.rf.05433c537d60ad160f311fac5b16ca1c.jpg,"[{""tool"": ""Combination Pliers and Screwdriver"", ""bbox"": [0, 0, 1, 1]}]"
+wrench08_jpg.rf.56bfea3c2839b590adc12f2a74a2c91c.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.00, 0.00, 1.00, 0.59]}]"
+images201_jpg.rf.a36de98c5c3855803aa85603b6098bdf.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.075, 0.246, 0.362, 0.549]}, {""tool"": ""Needle-Nose Pliers"", ""bbox"": [0.359, 0.187, 0.533, 0.459]}, {""tool"": ""Bolt Cutter"", ""bbox"": [0.536, 0.142, 0.755, 0.457]}, {""tool"": ""Screwdriver"", ""bbox"": [0.434, 0.341, 0.552, 0.633]}]"
+20231102150132_jpg.rf.95f7bdcbc74fc6e8ef762d411dd6766d.jpg,"[{""tool"": ""Toothbrushes"", ""bbox"": [0.041, 0.361, 0.123, 0.701]}, {""tool"": ""Toothbrushes"", ""bbox"": [0.341, 0.364, 0.471, 0.706]}, {""tool"": ""Toothbrushes"", ""bbox"": [0.361, 0.349, 0.465, 0.694]}, {""tool"": ""Toothbrushes"", ""bbox"": [0.441, 0.356, 0.569, 0.693]}, {""tool"": ""Toothbrushes"", ""bbox"": [0.439, 0.339, 0.543, 0.694]}]"
+8_jpg.rf.4b0d2ad81139888995e0f4fbfbb45340.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.05, 0.06, 0.90, 0.64]}]"
+hammer16_jpg.rf.5cfa1af36b3a642fa4004084cd73372f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.05, 0.03, 0.92, 0.64]}]"
+20231102151710_jpg.rf.9cfe54b2abbda0b40494e048b0464b47.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.14, 0.35, 0.46, 0.55]}, {""tool"": ""Screwdriver"", ""bbox"": [0.31, 0.39, 0.51, 0.59]}, {""tool"": ""Hammer"", ""bbox"": [0.18, 0.41, 0.48, 0.59]}, {""tool"": ""Tape Measure"", ""bbox"": [0.21, 0.45, 0.46, 0.58]}, {""tool"": ""Utility Knife"", ""bbox"": [0.33, 0.51, 0.57, 0.64]}, {""tool"": ""Pliers (Other)"", ""bbox"": [0.16, 0.46, 0.49, 0.63]}, {""tool"": ""Hammer (Other)"", ""bbox"": [0.28, 0.49, 0.55, 0.64]}]"
+2023-08-17_17-08-04_png_jpg.rf.08e2df1da7f75ce0f278c57dfdf8606b.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.20, 0.18, 0.34, 0.44]}, {""tool"": ""Hammer"", ""bbox"": [0.44, 0.22, 0.62, 0.38]}, {""tool"": ""Screwdriver"", ""bbox"": [0.34, 0.12, 0.64, 0.46]}, {""tool"": ""Wrench"", ""bbox"": [0.22, 0.18, 0.46, 0.50]}, {""tool"": ""Utility Knife"", ""bbox"": [0.12, 0.20, 0.28, 0.34]}]"
+screw_driver823_jpg.rf.5d9bebc0afbec27cb82365a7996c9ccc.jpg,"[{""tool"": ""Phillips Screwdriver"", ""bbox"": [0.07, 0.17, 0.33, 0.91]}]"
+2023-08-17_17-09-38_png_jpg.rf.8c036c9ddaf9e9bf1cb84b890666d98b.jpg,"[{""tool"": ""Pliers, Hammer"", ""bbox"": [0.400, 0.190, 0.800, 0.700]}]"
+20231102151635_jpg.rf.7e862ef7b6a57e4eeff7babafc11bafc.jpg,[]
+2023-08-17_12-10-03_png_jpg.rf.5fa8dda35aef96bc675adbf0e22919ef.jpg,[]
+plusdriver08_jpg.rf.3ab71e106c113d975809abc6b71500f5.jpg,[]
+screw_driver852_jpg.rf.cfc1bae2ba7e8f18ab8f6091d1a5e8b0.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.24, 0.14, 0.46, 0.48]}, {""tool"": ""Screwdriver"", ""bbox"": [0.36, 0.25, 0.76, 0.58]}]"
+2023-08-14_15-34-37_png_jpg.rf.b3a53dc1d91f36b7058f47d732c7178d.jpg,[]
+screw_driver849_jpg.rf.7b6ddf06aa9802765968895f6208827f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0, 0, 0.59, 0.78]}]"
+2023-08-17_17-10-01_png_jpg.rf.725f53b4c3a4750c76a2181310a80d91.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [245, 210, 515, 720]}, {""tool"": ""Hammer"", ""bbox"": [360, 270, 520, 640]}, {""tool"": ""Screwdriver"", ""bbox"": [540, 190, 660, 470]}, {""tool"": ""File"", ""bbox"": [600, 200, 710, 500]}]"
+KakaoTalk_20230405_200152554_jpg.rf.ca9deec0fa78b1356320698e3be72971.jpg,[]
+minusdriver07_jpg.rf.c348a272965a3cc0b27803fdf0be8129.jpg,[]
+223000766714_001_jpg.rf.f49f4eb30e333a1b11da66fe8a82660e.jpg,"[{""tool"": ""Long Nose Pliers"", ""bbox"": [0.12, 0.03, 0.98, 0.94]}]"
+000160_jpg.rf.e377584c88867efe921a4bf1ec492572.jpg,"[{""tool"": ""Needle-nose pliers"", ""bbox"": [0.05, 0.03, 0.75, 0.93]}, {""tool"": ""Flathead screwdriver"", ""bbox"": [0.72, 0.78, 0.84, 0.88]}]"
+20231102150107_jpg.rf.8ef4c867bdee40c7a8edcd0d3b838e7d.jpg,[]
+2023-08-17_12-10-17_png_jpg.rf.963c393717daae737055834a0ed9d5b1.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0, 0, 0.3, 0.45]}]"
+20231102151134_jpg.rf.a2cdc3677b8a29a6664ba1d97c37ef71.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.375, 0.230, 0.625, 0.395]}, {""tool"": ""Pliers"", ""bbox"": [0.500, 0.155, 0.650, 0.290]}, {""tool"": ""Screwdriver"", ""bbox"": [0.550, 0.185, 0.675, 0.300]}, {""tool"": ""Hammer"", ""bbox"": [0.575, 0.180, 0.695, 0.330]}, {""tool"": ""Tape Measure"", ""bbox"": [0.600, 0.140, 0.700, 0.280]}, {""tool"": ""Screwdriver"", ""bbox"": [0.600, 0.170, 0.725, 0.310]}, {""tool"": ""Pliers"", ""bbox"": [0.625, 0.175, 0.750, 0.310]}]"
+20231102151646_jpg.rf.566614532138270eacd1bee233125eed.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0, 0.29, 0.12, 0.39]}, {""tool"": ""Hammer"", ""bbox"": [0.23, 0.43, 0.45, 0.55]}, {""tool"": ""Wrench"", ""bbox"": [0.45, 0.61, 0.59, 0.75]}, {""tool"": ""Utility Knife"", ""bbox"": [0.65, 0.73, 0.77, 0.88]}, {""tool"": ""Scissors"", ""bbox"": [0.84, 0.91, 0.92, 1.0]}, {""tool"": ""Drill"", ""bbox"": [0.1, 0.1, 0.13, 0.13]}, {""tool"": ""Screwdriver"", ""bbox"": [0.12, 0.13, 0.15, 0.15]}, {""tool"": ""Level"", ""bbox"": [0.17, 0.18, 0.19, 0.19]}, {""tool"": ""Tape Measure"", ""bbox"": [0.19, 0.2, 0.21, 0.21]}]"
+20231102151613_jpg.rf.5bbf1cf535032d6a9045f3cebb71a7f3.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.26, 0.25, 0.74, 0.72]}]"
+Wrench-115-_JPEG_jpg.rf.b94a615e2335ab0fba13e792cbf7b584.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.07, 0.18, 0.73, 0.72]}]"
+tool-306-_jpg.rf.5321ad7f16e27a1e75cb4ae8188adc15.jpg,[]
+20231102151702_jpg.rf.10c916e86381c14f998bdd1e8c9109e3.jpg,"[{""tool"": ""screwdriver"", ""bbox"": [0.003, 0.035, 0.104, 0.174]}, {""tool"": ""hammer"", ""bbox"": [0.133, 0.044, 0.247, 0.175]}, {""tool"": ""pliers"", ""bbox"": [0.134, 0.074, 0.272, 0.234]}, {""tool"": ""utility knife"", ""bbox"": [0.174, 0.057, 0.295, 0.243]}, {""tool"": ""wrench"", ""bbox"": [0.199, 0.059, 0.304, 0.235]}, {""tool"": ""drill"", ""bbox"": [0.225, 0.052, 0.328, 0.245]}, {""tool"": ""screwdriver"", ""bbox"": [0.237, 0.042, 0.349, 0.253]}, {""tool"": ""tape measure"", ""bbox"": [0.263, 0.041, 0.372, 0.264]}, {""tool"": ""saw"", ""bbox"": [0.285, 0]}]"
+istockphoto-1135292776-612x612_jpg.rf.f9a3d70533ed4691e3e6e3ef6d6f46c6.jpg,[]
+20231102150003_jpg.rf.cb7716d955e7d79c80489257c90c952e.jpg,"[{""tool"": ""chisel"", ""bbox"": [0.034, 0.014, 0.454, 0.476]}]"
+2023-08-17_17-07-34_png_jpg.rf.d2703cf053302ad68276575002619b4c.jpg,[]
+nipper05_jpg.rf.65e464b701d3d6b4381210fa6e527e4b.jpg,"[{""tool"": ""Needle-nose pliers"", ""bbox"": [0.06, 0.31, 0.92, 0.76]}]"
+2023-08-17_16-55-46_png_jpg.rf.1449f21b36a1b827e0b4e16bbbc08da3.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.061, 0.135, 0.235, 0.605]}, {""tool"": ""Screwdriver"", ""bbox"": [0.241, 0.155, 0.449, 0.645]}, {""tool"": ""Hammer"", ""bbox"": [0.495, 0.125, 0.695, 0.655]}, {""tool"": ""Wire Cutters"", ""bbox"": [0.481, 0.315, 0.693, 0.625]}, {""tool"": ""Pliers"", ""bbox"": [0.483, 0.135, 0.687, 0.555]}]"
+000193_jpg.rf.241bf0c5bc031a068f355b007f499ddd.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.18, 0.26, 0.70, 0.83]}, {""tool"": ""Pliers"", ""bbox"": [0.37, 0.21, 0.70, 0.53]}, {""tool"": ""Hammer"", ""bbox"": [0.29, 0.19, 0.48, 0.34]}]"
+hammer1_jpg.rf.cfb4b7cfc89f5efa17a9e5657b11bdf1.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.032, 0.029, 0.998, 0.932]}]"
+20231102150322_jpg.rf.9cc22b6d7c05fa5e7007e3116f89d98a.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.10, 0.17, 0.44, 0.43]}, {""tool"": ""Box Wrench"", ""bbox"": [0.10, 0.23, 0.37, 0.36]}, {""tool"": ""Adjustable Wrench"", ""bbox"": [0.15, 0.23, 0.37, 0.36]}, {""tool"": ""Needle-Rose Pliers"", ""bbox"": [0.15, 0.27, 0.44, 0.43]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [0.15, 0.25, 0.44, 0.43]}, {""tool"": ""Phillips Head Screwdriver"", ""bbox"": [0.15, 0.25, 0.44, 0.43]}]"
+Screwdriver-620-_JPEG_jpg.rf.0b1c63e94b59c798450be7e9dba77e6b.jpg,"[{""tool"": ""Phillips Screwdriver"", ""bbox"": [0.00, 0.00, 0.90, 0.55]}]"
+images181_jpg.rf.453359fbdc473a6987ac172ff27cf515.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.054, 0.143, 0.422, 0.504]}]"
+20231102151442_jpg.rf.eb267cd05944ccfcf23bf5a011c31861.jpg,"[{""tool"": ""Handgun"", ""bbox"": [0.357, 0.333, 0.517, 0.555]}]"
+Screwdriver-690-_JPEG_jpg.rf.649952d1027f7eacdfd1e816448f1e7c.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.419, 0.245, 0.556, 0.635]}, {""tool"": ""Screwdriver"", ""bbox"": [0.557, 0.245, 0.694, 0.634]}, {""tool"": ""Wrench"", ""bbox"": [0.694, 0.245, 0.831, 0.634]}, {""tool"": ""Hammer"", ""bbox"": [0.831, 0.245, 0.971, 0.634]}]"
+Wrench-32-_JPEG_jpg.rf.9ab10247ecea56b0a26c5efdb7a43af5.jpg,[]
+Wiha_Z16309_Industrial-electric-cutters_300dpi_jpg.rf.3ae46961a8382c9c0fe77dcece6e9376.jpg,"[{""tool"": ""Wire Cutter"", ""bbox"": [0.225, 0.240, 0.575, 0.665]}]"
+top-view-different-types-tools_23-2148428246_jpg.rf.4957944ad9fe94e8989c1cf100288cb9.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.44, 0.29, 0.74, 0.55]}]"
+hammer7_jpg.rf.d358d97613c62a301777b4b4182fcaf2.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.050, 0.125, 0.750, 0.930]}]"
+screw_driver815_jpg.rf.becebcb8de03b4b49554b31e65a6b0ea.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.396, 0.384, 0.444, 0.438]}, {""tool"": ""Screwdriver"", ""bbox"": [0.422, 0.512, 0.540, 0.554]}, {""tool"": ""Pliers"", ""bbox"": [0.428, 0.572, 0.466, 0.584]}, {""tool"": ""Nails"", ""bbox"": [0.372, 0.592, 0.404, 0.606]}, {""tool"": ""Box"", ""bbox"": [0.372, 0.244, 0.408, 0.264]}]"
+Screwdriver-686-_JPEG_jpg.rf.260524b44f8fe9348fae75dd02a4c93e.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.384, 0.344, 0.576, 0.796]}]"
+20231102151544_jpg.rf.9f7d7535e309d5a7780b81095714a2c8.jpg,[]
+tool-138-_jpg.rf.6d428325074e242772a9cb71609e8e74.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.02, 0.28, 0.32, 0.72]}, {""tool"": ""Screwdriver"", ""bbox"": [0.04, 0.33, 0.30, 0.62]}, {""tool"": ""Pliers"", ""bbox"": [0.16, 0.30, 0.38, 0.58]}, {""tool"": ""Socket"", ""bbox"": [0.12, 0.36, 0.44, 0.64]}]"
+5_jpg.rf.a7c4fb92554e4d30bccffaa2dce44ca4.jpg,[]
+2023-08-17_12-07-43_png_jpg.rf.0d6af927d199de0c41108b4b4644ca3c.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.272, 0.246, 0.656, 0.764]}]"
+tool-215-_jpg.rf.446f65786a734a4a6f0c87e0ec937a7e.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.04, 0.01, 0.28, 0.39]}, {""tool"": ""Hammer"", ""bbox"": [0.28, 0.04, 0.54, 0.39]}, {""tool"": ""Pliers"", ""bbox"": [0.54, 0.04, 0.94, 0.39]}]"
+000168_jpg.rf.3718a398669736d2acc9a528519951f7.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.046, 0.272, 0.794, 0.624]}]"
+000170_jpg.rf.a68e7a3da346212fe953cb9b68e8489a.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.18, 0.16, 0.82, 0.73]}]"
+tool-54-_jpg.rf.580ac1ad43ee51ab6db30147ebe7b2d0.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.136, 0.114, 0.192, 0.778]}, {""tool"": ""Pliers"", ""bbox"": [0.275, 0.129, 0.445, 0.813]}, {""tool"": ""Hammer"", ""bbox"": [0.455, 0.115, 0.633, 0.840]}, {""tool"": ""Wire Cutters"", ""bbox"": [0.629, 0.120, 0.781, 0.783]}]"
+Screwdriver-402-_JPEG_jpg.rf.928968ac2278b3eef956025b8f6a72a4.jpg,"[{""tool"": ""Drill Bit"", ""bbox"": [0.00, 0.00, 0.98, 0.83]}]"
+17_jpg.rf.cfdbe7a56d88825dba992e51720745e9.jpg,"[{""tool"": ""Klein Tools 6-in-1 Screwdriver"", ""bbox"": [0.15, 0.22, 0.92, 0.43]}]"
+2023-08-17_17-09-57_png_jpg.rf.4e37aab889565e9792860739b0e9b559.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.12, 0.23, 0.42, 0.73]}, {""tool"": ""Straight Screwdriver"", ""bbox"": [0.46, 0.31, 0.66, 0.66]}]"
+20231102151309_jpg.rf.52e101b8b2267ab6dc06aa0f603a252d.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.06, 0.21, 0.37, 0.55]}, {""tool"": ""Pliers"", ""bbox"": [0.36, 0.24, 0.55, 0.49]}, {""tool"": ""Crescent Wrench"", ""bbox"": [0.36, 0.49, 0.66, 0.64]}, {""tool"": ""Wrench"", ""bbox"": [0.55, 0.60, 0.73, 0.73]}, {""tool"": ""Screwdriver"", ""bbox"": [0.42, 0.69, 0.60, 0.78]}, {""tool"": ""Saw"", ""bbox"": [0.73, 0.73, 0.93, 0.81]}]"
+Screwdriver-693-_JPEG_jpg.rf.4c7d134608c7a7160d47b0071dd273f5.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.03, 0.02, 0.99, 0.75]}]"
+20231102150138_jpg.rf.29505cefbeb7aefe4e7dc02e47693a5c.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.35, 0.35, 0.53, 0.67]}, {""tool"": ""Pliers"", ""bbox"": [0.29, 0.41, 0.49, 0.60]}, {""tool"": ""Chisel"", ""bbox"": [0.33, 0.46, 0.63, 0.62]}, {""tool"": ""Screwdriver"", ""bbox"": [0.33, 0.33, 0.63, 0.57]}]"
+2023-08-17_17-08-26_png_jpg.rf.f4ce3df6671df00aabd1c54ca4ab9fd7.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.383, 0.240, 0.633, 0.685]}, {""tool"": ""Pliers"", ""bbox"": [0.383, 0.255, 0.633, 0.555]}, {""tool"": ""Pliers and Cutters"", ""bbox"": [0.383, 0.285, 0.635, 0.465]}]"
+caliper-42-_jpg.rf.6ca64181157e153830f638fe52f0f1c6.jpg,"[{""tool"": ""Vernier Caliper"", ""bbox"": [0.22, 0.15, 0.88, 0.73]}]"
+screw_driver814_jpg.rf.a29a6446e8c0289fe1d013bd501e5f82.jpg,"[{""tool"": ""Screwdrivers"", ""bbox"": [0.16, 0.13, 0.88, 0.76]}]"
+20231102150716_jpg.rf.9be1bc8b431af8f059f372ea61c2dca1.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.355, 0.357, 0.441, 0.454]}, {""tool"": ""Screwdriver"", ""bbox"": [0.343, 0.345, 0.425, 0.459]}, {""tool"": ""Hammer"", ""bbox"": [0.403, 0.365, 0.473, 0.454]}, {""tool"": ""Wrench"", ""bbox"": [0.371, 0.349, 0.445, 0.464]}, {""tool"": ""Pliers"", ""bbox"": [0.341, 0.363, 0.447, 0.459]}]"
+High-Quality-mechanical-plier-Combination-plier_jpg.rf.7990235d392debaa93f6eb9a1ce06e9a.jpg,[]
+20231102151757_jpg.rf.2331f8aff83b4bdaf3650bc398fd1fe4.jpg,[]
+KakaoTalk_20230405_200152286_jpg.rf.50ce002b1d7fb4266f16aca391f05ed4.jpg,"[{""tool"": ""Precision Screwdriver"", ""bbox"": [0.17, 0.28, 0.81, 0.52]}]"
+tool-132-_jpg.rf.d7655afe04206363180ea72cec5c498f.jpg,[]
+Screwdriver-489-_JPEG_jpg.rf.ce42c97cb696eb6f1d59082b1a61ee31.jpg,"[{""tool"": ""Flathead Screwdriver"", ""bbox"": [0.31, 0.25, 0.98, 0.61]}]"
+20231102151732_jpg.rf.2ee40ed75bff25cbdd268846ab182353.jpg,[]
+images200_jpg.rf.7764b736ba72db60d272be7d0211b26a.jpg,[]
+20231102151336_jpg.rf.e2b1a2a767956dc0b767f38aa72093c0.jpg,[]
+2023-08-17_17-06-24_png_jpg.rf.e28580de33b53ee5be008889694df208.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.44, 0.37, 0.78, 0.67]}]"
+000140_jpg.rf.021dc207561ec1416df90a566ecdcf9b.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.03, 0.03, 0.78, 0.64]}, {""tool"": ""Crimping Pliers (Pinchers)"", ""bbox"": [0.03, 0.03, 0.78, 0.64]}]"
+FAIPLC7N_jpg.rf.fddfd443ee3c187559e1fd7a43dcb842.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.08, 0.32, 0.95, 0.61]}]"
+20231102151201_jpg.rf.53e00354eeacc47f5056bba9db7409d4.jpg,[]
+2023-08-14_15-30-29_png_jpg.rf.bb6407a7a21edb6e277e0788ef3ef0ca.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.000, 0.000, 1.000, 1.000]}, {""tool"": ""Screwdriver"", ""bbox"": [0.000, 0.420, 0.940, 1.000]}, {""tool"": ""Adjustable Wrench"", ""bbox"": [0.000, 0.500, 0.920, 1.000]}, {""tool"": ""Pliers"", ""bbox"": [0.000, 0.450, 0.940, 1.000]}, {""tool"": ""Utility Knife"", ""bbox"": [0.000, 0.360, 0.880, 1.000]}]"
+20231102151131_jpg.rf.21f4a0f851d5aa8e5176f04e4df401e7.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.16, 0.12, 0.40, 0.30]}, {""tool"": ""Pliers"", ""bbox"": [0.35, 0.28, 0.53, 0.34]}, {""tool"": ""Pipe"", ""bbox"": [0.35, 0.50, 0.53, 0.55]}]"
+2023-08-17_17-06-56_png_jpg.rf.e1799b3dfa9093f4283930d2abbbe5c2.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.16, 0.14, 0.31, 0.71]}, {""tool"": ""Adjustable Wrench"", ""bbox"": [0.31, 0.14, 0.46, 0.71]}, {""tool"": ""Hammer"", ""bbox"": [0.46, 0.15, 0.66, 0.73]}, {""tool"": ""Screwdriver"", ""bbox"": [0.65, 0.15, 0.84, 0.76]}]"
+20231102150710_jpg.rf.9116fa6cf150799e36d8ef911b718112.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.024, 0.064, 0.354, 0.254]}, {""tool"": ""Pliers"", ""bbox"": [0.416, 0.204, 0.664, 0.464]}, {""tool"": ""Hammer"", ""bbox"": [0.656, 0.404, 0.876, 0.604]}, {""tool"": ""Screwdriver"", ""bbox"": [0.456, 0.144, 0.756, 0.384]}, {""tool"": ""Tongs"", ""bbox"": [0.216, 0.164, 0.456, 0.404]}, {""tool"": ""Tape measure"", ""bbox"": [0.656, 0.164, 0.876, 0.464]}, {""tool"": ""Wire Cutters"", ""bbox"": [0.29, 0.44, 0.54, 0.63]}]"
+flachrundzange-323307_jpg.rf.852b428eff582e28e0517f42d8e6292f.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.275, 0.225, 0.800, 0.605]}]"
+20231102150659_jpg.rf.83ce520198194ff8de4d10d64db2467c.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.35, 0.30, 0.55, 0.62]}, {""tool"": ""Combination Wrench"", ""bbox"": [0.48, 0.26, 0.63, 0.51]}, {""tool"": ""Open-Ended Wrench"", ""bbox"": [0.57, 0.40, 0.71, 0.52]}, {""tool"": ""Ratchet Wrench"", ""bbox"": [0.40, 0.22, 0.65, 0.42]}]"
+tool-103-_jpg.rf.60d207c83524f79dffe888d6736ade2b.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.02, 0.25, 0.46, 0.53]}, {""tool"": ""Plastic Hammer"", ""bbox"": [0.41, 0.35, 0.74, 0.69]}, {""tool"": ""Hacksaw"", ""bbox"": [0.11, 0.06, 0.86, 0.25]}, {""tool"": ""Claw Hammer"", ""bbox"": [0.43, 0.21, 0.80, 0.52]}, {""tool"": ""Screwdriver"", ""bbox"": [0.34, 0.29, 0.63, 0.47]}, {""tool"": ""Pliers"", ""bbox"": [0.31, 0.41, 0.51, 0.68]}]"
+20231102151623_jpg.rf.3652c8b9a1699699bbf9562153a5cd6e.jpg,"[{""tool"": ""Angle Grinder"", ""bbox"": [0.32, 0.26, 0.44, 0.52]}, {""tool"": ""Hammer Drill"", ""bbox"": [0.38, 0.23, 0.44, 0.50]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [0.31, 0.20, 0.42, 0.45]}, {""tool"": ""Vise Grips"", ""bbox"": [0.35, 0.21, 0.45, 0.51]}, {""tool"": ""Square"", ""bbox"": [0.27, 0.18, 0.42, 0.50]}]"
+caliper-22-_jpg.rf.cba3e12dc985c2a609fb24b528b42d5b.jpg,"[{""tool"": ""Caliper"", ""bbox"": [0.24, 0.16, 0.59, 0.44]}]"
+20231102151522_jpg.rf.0477922c656c984b20f9457150a89412.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.06, 0.18, 0.30, 0.38]}, {""tool"": ""Wrenches"", ""bbox"": [0.44, 0.40, 0.70, 0.60]}, {""tool"": ""Screwdrivers"", ""bbox"": [0.16, 0.22, 0.40, 0.36]}, {""tool"": ""Hammer"", ""bbox"": [0.22, 0.20, 0.42, 0.34]}, {""tool"": ""Utility Knife"", ""bbox"": [0.18, 0.18, 0.30, 0.30]}]"
+hammer25_jpg.rf.3faf14d8afd751e595df397283f6b699.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.036, 0.039, 0.996, 0.784]}]"
+2023-08-17_17-09-13_png_jpg.rf.3e2647b84616bc0b09aaf67bfbe2b264.jpg,[]
+screw_driver792_jpg.rf.35d7bdab8339f61a9103f71251df7cba.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.362, 0.155, 0.662, 0.465]}]"
+tool-159-_jpg.rf.7be7f6fbbce57c61c4f21ce77f687f34.jpg,"[{""tool"": ""Claw Hammer"", ""bbox"": [0.34, 0.31, 0.48, 0.70]}]"
+tool-350-_jpeg_jpg.rf.a57b82eb2478e7382d92f85fb584d7c2.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.033, 0.037, 0.434, 0.439]}]"
+000057_jpg.rf.4faf6aeb61220e4d20333bbe507fe15f.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0, 0, 1, 0.75]}]"
+20231102151510_jpg.rf.52d53d81e9cdc8d677213e5f87f393bf.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.40, 0.70, 0.55, 0.93]}, {""tool"": ""Hammer"", ""bbox"": [0.10, 0.55, 0.40, 0.73]}, {""tool"": ""Screwdriver"", ""bbox"": [0.35, 0.65, 0.45, 0.80]}, {""tool"": ""Wrench"", ""bbox"": [0.35, 0.70, 0.60, 0.95]}, {""tool"": ""Pliers"", ""bbox"": [0.45, 0.70, 0.55, 0.90]}, {""tool"": ""Screwdriver"", ""bbox"": [0.30, 0.65, 0.40, 0.80]}, {""tool"": ""Wrench"", ""bbox"": [0.40, 0.75, 0.60, 0.95]}]"
+2023-08-17_17-08-11_png_jpg.rf.c2fc82902f5f3922475ab67879aac8e3.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.10, 0.13, 0.40, 0.63]}, {""tool"": ""Hammer"", ""bbox"": [0.43, 0.15, 0.67, 0.64]}, {""tool"": ""Screwdriver"", ""bbox"": [0.69, 0.16, 0.85, 0.65]}, {""tool"": ""Pliers"", ""bbox"": [0.81, 0.18, 0.93, 0.64]}, {""tool"": ""Pliers"", ""bbox"": [0.93, 0.21, 1.00, 0.64]}]"
+063htk063screwdriver8bitpiler2_jpg.rf.10a49cc22bef455574ba0e9cc75bdf0c.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.21, 0.27, 0.61, 0.43]}, {""tool"": ""Wrench"", ""bbox"": [0.59, 0.36, 0.83, 0.60]}]"
+20231102151608_jpg.rf.9633d7e51aca475bf21dff2880525ee6.jpg,"[{""tool"": ""Drill"", ""bbox"": [252, 0.33, 396, 0.73]}]"
+KakaoTalk_20230405_200153817_jpg.rf.6795aa73d708e566d872eaf16a777cbf.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.33, 0.32, 0.89, 0.46]}]"
+Screwdriver-621-_JPEG_jpg.rf.0fec38d9e83d87d869624f0ac57369a8.jpg,"[{""tool"": ""Glass Bulb Base"", ""bbox"": [0.12, 0.22, 0.78, 0.66]}]"
+20231102151453_jpg.rf.5222750e27a38609a97b2a4bdceca0a8.jpg,[]
+hand-tools-screwdriver-blue-red-plier-9-vyas-original-imag6hragynj5zmf_jpeg_jpg.rf.b8034b04446a49bb1c6b6ee27a117394.jpg,"[{""tool"": ""Wire stripper pliers"", ""bbox"": [0.05, 0.05, 0.84, 0.96]}]"
+screw_driver817_jpg.rf.1d2565aa350cede15a1c069d321299b3.jpg,"[{""tool"": ""Phillips Screwdriver"", ""bbox"": [0.05, 0.05, 0.95, 0.90]}]"
+top-view-different-types-tools_23-2148428242_jpg.rf.7b2d4d63482d27dd5c2d045a53eeb74b.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.06, 0.10, 0.42, 0.52]}]"
+tool-93-_png_jpg.rf.1a746ba8447caeed949d501e3da39342.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.12, 0.20, 0.45, 0.85]}, {""tool"": ""Screwdriver"", ""bbox"": [0.50, 0.33, 0.70, 0.70]}, {""tool"": ""Hammer"", ""bbox"": [0.55, 0.37, 0.80, 0.70]}, {""tool"": ""Adjustable Wrench"", ""bbox"": [0.75, 0.25, 0.92, 0.70]}]"
+2023-08-17_17-09-33_png_jpg.rf.8944aafb11a8072d490f9450ff436548.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.38, 0.26, 0.75, 0.65]}, {""tool"": ""Pliers"", ""bbox"": [0.42, 0.25, 0.55, 0.61]}]"
+000188_jpg.rf.0d4f1f84ca5a4b3c213cb3e1d946f9f2.jpg,"[{""tool"": ""Needlenose Pliers"", ""bbox"": [0.024, 0.043, 0.956, 0.893]}]"
+caliper-64-_jpg.rf.b9e072d6b9930c55e9d34474d7584af6.jpg,"[{""tool"": ""Vernier Caliper"", ""bbox"": [0.2, 0.2, 1.3, 0.7]}]"
+2023-08-14_15-30-16_png_jpg.rf.c6a9793cecd2fc997d6b806135ff9148.jpg,[]
+2023-08-17_17-07-49_png_jpg.rf.5dacb5183a321dbb3d05111060525d45.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.16, 0.26, 0.45, 0.55]}, {""tool"": ""Screwdriver"", ""bbox"": [0.31, 0.35, 0.65, 0.65]}, {""tool"": ""Wrench"", ""bbox"": [0.51, 0.44, 0.73, 0.66]}, {""tool"": ""Hammer"", ""bbox"": [0.65, 0.45, 0.85, 0.67]}]"
+20231102151257_jpg.rf.ca1ad4526c26199a8b7226c786a3be5a.jpg,"[{""tool"": ""Spatula"", ""bbox"": [342, 350, 433, 514]}, {""tool"": ""Scraper"", ""bbox"": [294, 344, 405, 494]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [299, 336, 413, 489]}, {""tool"": ""Chisel"", ""bbox"": [343, 384, 422, 496]}]"
+20231102151553_jpg.rf.576c818b6b71da8c1cf4287393a8ceb2.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.002, 0.008, 0.392, 0.996]}, {""tool"": ""Pliers"", ""bbox"": [0.392, 0.024, 0.692, 0.406]}, {""tool"": ""Square"", ""bbox"": [0.684, 0.034, 0.802, 0.404]}, {""tool"": ""Tape Measure"", ""bbox"": [0.684, 0.034, 0.802, 0.404]}, {""tool"": ""Level"", ""bbox"": [0.684, 0.034, 0.802, 0.404]}, {""tool"": ""Scissors"", ""bbox"": [0.684, 0.034, 0.802, 0.404]}]"
+20231102151438_jpg.rf.ef5ff307153fe4dd73342d83fb4987e6.jpg,[]
+18_jpg.rf.ca259e064b3bc0ca770a14ffb038814f.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.04, 0.04, 0.98, 0.73]}]"
+20231102151353_jpg.rf.3311ec67194083a37a1654190a06901f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.28, 0.27, 0.54, 0.47]}, {""tool"": ""Screwdriver"", ""bbox"": [0.51, 0.23, 0.68, 0.41]}, {""tool"": ""Pliers"", ""bbox"": [0.44, 0.16, 0.56, 0.33]}, {""tool"": ""Wrench"", ""bbox"": [0.68, 0.37, 0.89, 0.59]}]"
+screw_driver864_jpg.rf.62e4cd993472a4358b3e9e7dfc62457a.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.03, 0.45, 0.36, 0.62]}, {""tool"": ""Screwdriver"", ""bbox"": [0.27, 0.45, 0.43, 0.67]}, {""tool"": ""Pipe Wrench"", ""bbox"": [0.47, 0.45, 0.60, 0.69]}, {""tool"": ""Pliers"", ""bbox"": [0.73, 0.45, 0.86, 0.65]}, {""tool"": ""Saw"", ""bbox"": [0.86, 0.45, 0.98, 0.78]}]"
+dtbird-alat-set-perkakas-palu-tang-obeng-kunci-pas-15in1-yl-8016_jpg.rf.8fe199f5c024ccfe4e59fd12df00ff98.jpg,"[{""tool"": ""Wire stripper pliers"", ""bbox"": [0.057, 0.286, 0.144, 0.646]}, {""tool"": ""Claw Hammer"", ""bbox"": [0.266, 0.279, 0.434, 0.636]}, {""tool"": ""2m Measuring Tape"", ""bbox"": [0.294, 0.191, 0.412, 0.326]}, {""tool"": ""Measuring Tape"", ""bbox"": [0.291, 0.396, 0.408, 0.504]}, {""tool"": ""Locking Pliers"", ""bbox"": [0.295, 0.386, 0.408, 0.504]}, {""tool"": ""Utility Knife"", ""bbox"": [0.288, 0.388, 0.406, 0.504]}]"
+20231102150319_jpg.rf.06f3b9ff94930ca9c52e8d885161323f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.10, 0.06, 0.47, 0.33]}, {""tool"": ""Wrench"", ""bbox"": [0.38, 0.12, 0.58, 0.51]}, {""tool"": ""Screwdriver"", ""bbox"": [0.32, 0.22, 0.58, 0.43]}, {""tool"": ""Pliers"", ""bbox"": [0.35, 0.07, 0.62, 0.51]}]"
+2023-08-17_17-07-25_png_jpg.rf.bf892b370a213ac5390a19e16787e775.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.280, 0.250, 0.640, 0.890]}, {""tool"": ""Pliers"", ""bbox"": [0.520, 0.320, 0.750, 0.740]}, {""tool"": ""Hammer"", ""bbox"": [0.360, 0.420, 0.620, 0.750]}, {""tool"": ""Screwdriver"", ""bbox"": [0.340, 0.300, 0.620, 0.740]}]"
+martelo556_jpg.rf.384a9e49431ca151e2a4e4bddcb717bb.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.040, 0.105, 0.410, 0.535]}]"
+2023-08-17_12-08-44_png_jpg.rf.8132cb893ddb810f228417fad93bbc6d.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.07, 0.27, 0.51, 0.59]}]"
+ferragens-em-geral-em-santa-cruz-rj-49436_jpg.rf.c54991edca124c83538da64e6ac8e9d9.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.26, 0.05, 0.80, 0.33]}, {""tool"": ""Screwdriver"", ""bbox"": [0.18, 0.33, 0.35, 0.68]}, {""tool"": ""Pliers"", ""bbox"": [0.38, 0.35, 0.58, 0.68]}, {""tool"": ""Utility Knife"", ""bbox"": [0.68, 0.32, 0.79, 0.64]}]"
+20231102150346_jpg.rf.ab4580928d746a35f5f27ce90999b06a.jpg,[]
+2023-08-17_12-09-34_png_jpg.rf.a6d4e48a1f80faa8a6900bff852bb75c.jpg,[]
+20231102151620_jpg.rf.810cd49d641f7eb57f316e30f6f9438f.jpg,"[{""tool"": ""Boxcutter"", ""bbox"": [0.016, 0.027, 0.404, 0.434]}, {""tool"": ""Staple Gun"", ""bbox"": [0.362, 0.346, 0.576, 0.524]}, {""tool"": ""Clamps"", ""bbox"": [0.432, 0.344, 0.646, 0.444]}]"
+images151_jpg.rf.5c456c0976295e853b0342235dbef57c.jpg,[]
+set-repair-tools-supplies-with-copy-space-top-view_23-2148393121_jpg.rf.654bbca0b19e5e0e6975593d9445a59b.jpg,"[{""tool"": ""Paint Roller"", ""bbox"": [0.07, 0.34, 0.33, 0.60]}, {""tool"": ""Paintbrush"", ""bbox"": [0.39, 0.39, 0.58, 0.73]}, {""tool"": ""Pliers"", ""bbox"": [0.38, 0.41, 0.54, 0.64]}, {""tool"": ""Measuring Tape"", ""bbox"": [0.54, 0.46, 0.70, 0.63]}]"
+tool-73-_png_jpg.rf.a98a7ed01a139fce75e70d0ff099ec3b.jpg,"[{""tool"": ""Drill"", ""bbox"": [0.06, 0.05, 0.87, 0.84]}]"
+jk-pliar-500x500_jpg.rf.47d60b7c95482d2b0fdd83c4bfcd4482.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.05, 0.00, 0.40, 0.70]}]"
+20231102151127_jpg.rf.5823d65439a2e816bba1d49b58093820.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.384, 0.332, 0.540, 0.634]}, {""tool"": ""Combination Pliers"", ""bbox"": [0.456, 0.302, 0.574, 0.422]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [0.504, 0.222, 0.626, 0.342]}]"
+20231102150834_jpg.rf.2f569240037d9c64fa0bd3b43831d12b.jpg,[]
+Screwdriver-598-_JPEG_jpg.rf.3cdbbbfa08db4e9ad33fbd35369afd7d.jpg,[]
+20231102151633_jpg.rf.ea97378cbe0e05a0fe1315ed02d3c7e4.jpg,"[{""tool"": ""Hammer"", ""bbox"": [17, 30, 55, 57]}, {""tool"": ""Screwdriver"", ""bbox"": [18, 36, 69, 66]}, {""tool"": ""Plunger"", ""bbox"": [27, 39, 54, 53]}, {""tool"": ""Pliers"", ""bbox"": [42, 32, 64, 43]}, {""tool"": ""Utility Knife"", ""bbox"": [22, 36, 57, 50]}, {""tool"": ""Clamp"", ""bbox"": [47, 50, 70, 58]}, {""tool"": ""Saw"", ""bbox"": [41, 37, 71, 59]}, {""tool"": ""Tape Measure"", ""bbox"": [13, 30, 34, 36]}]"
+KakaoTalk_20230405_195529417_jpg.rf.257b2557aaab4b9af184ee201ea0c394.jpg,[]
+000200_jpg.rf.541acedd73d50f27f6d2fd4b768d7979.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.12, 0.33, 0.78, 0.71]}]"
+20231102151739_jpg.rf.11b5d02f1e61f12efa9d29821b1bc102.jpg,[]
+Hammer-1034-_JPEG_jpg.rf.a2105ed219edaca627ca08f8e377127a.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.15, 0.13, 0.84, 0.62]}]"
+20231102150000_jpg.rf.8a16412556d8d482f425ed9b2c0e2de7.jpg,"[{""tool"": ""Hand Saw"", ""bbox"": [0.31, 0.15, 0.31, 0.15]}]"
+20231102150943_jpg.rf.c0df5847c2b3bfd77d14cc6f5e47955a.jpg,[]
+20231102151216_jpg.rf.2e2dee0777f9b1a05615ce6bc9449146.jpg,"[{""tool"": ""welding_table"", ""bbox"": [0.033, 0.023, 0.964, 0.946]}, {""tool"": ""hammer"", ""bbox"": [0.340, 0.449, 0.441, 0.555]}, {""tool"": ""metal_file"", ""bbox"": [0.383, 0.446, 0.440, 0.555]}]"
+caliper-36-_jpg.rf.4b219831f1ae1dd2b7dc2e65cb5da8fa.jpg,[]
+pliers02_jpg.rf.b952fb2d478cdb28b969f1c9fbc36438.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.033, 0.043, 0.969, 0.993]}, {""tool"": ""Rope"", ""bbox"": [0.333, 0.423, 0.967, 0.973]}]"
+view-steel-hammer-with-other-construction-elements-tools_23-2150576471_jpg.rf.505d13e479cabd87304cad6ba256d805.jpg,[]
+16_jpg.rf.2c61dcec03fad5fc42577e694df1b9f9.jpg,[]
+2023-08-17_12-09-17_png_jpg.rf.629967b90bd3bfde71cb87a185e8dbc2.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.20, 0.26, 0.68, 0.73]}]"
+screw_driver836_jpg.rf.42eb43bfe7b9ab79432c591dc56b4b20.jpg,"[{""tool"": ""Phillips Screwdriver"", ""bbox"": [96, 0.28, 590, 0.36]}]"
+20231102151547_jpg.rf.a8aecbda822ab2ae3bb1818059b8706a.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.362,0.245,0.444,0.493]}, {""tool"": ""Hammer"", ""bbox"": [0.002,0.183,0.204,0.417]}, {""tool"": ""Screwdriver"", ""bbox"": [0.003,0.245,0.207,0.432]}, {""tool"": ""Pliers with a Wire Cutter"", ""bbox"": [0.350,0.255,0.447,0.495]}, {""tool"": ""Other Tool"", ""bbox"": [0.355,0.257,0.451,0.492]}]"
+20231102151707_jpg.rf.9d257e1ba195baa4916d2e6d7bc88f6c.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.04, 0.25, 0.46, 0.63]}, {""tool"": ""Pliers"", ""bbox"": [0.17, 0.36, 0.42, 0.57]}, {""tool"": ""Screwdriver"", ""bbox"": [0.18, 0.25, 0.39, 0.46]}, {""tool"": ""Wrench"", ""bbox"": [0.45, 0.37, 0.58, 0.63]}, {""tool"": ""Utility Knife"", ""bbox"": [0.53, 0.27, 0.70, 0.43]}, {""tool"": ""Pliers with Cutters"", ""bbox"": [0.43, 0.25, 0.63, 0.51]}]"
+20231102150039_jpg.rf.fad82f267916d02cfb9dad9719fd74ef.jpg,"[{""tool"": ""Hammer"", ""bbox"": [50, 50, 100, 100]}, {""tool"": ""Wrench"", ""bbox"": [200, 50, 300, 100]}, {""tool"": ""Chisel"", ""bbox"": [150, 150, 250, 250]}]"
+tool-339-_jpg.rf.24b2c9f5efacd615fbb2a8c13bda6fa4.jpg,[]
+screw_driver862_jpg.rf.49ec42da3f76a8292ff59e9bd912f284.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.45, 0.32, 0.83, 0.65]}, {""tool"": ""3/16-in. & 1/8-in. Slotted Screwdrivers"", ""bbox"": [0.25, 0.38, 0.73, 0.46]}, {""tool"": ""1 & #0 Phillips Screwdrivers"", ""bbox"": [0.18, 0.37, 0.51, 0.53]}]"
+20231102151727_jpg.rf.6f2d3548544a7d549c5bedd6e16387a4.jpg,"[{""tool"": ""Pliers"", ""bbox"": [64, 0.25, 0.55, 0.75]}, {""tool"": ""Hammer"", ""bbox"": [0.45, 0.35, 0.7, 0.55]}, {""tool"": ""Screwdriver"", ""bbox"": [0.7, 0.35, 0.95, 0.55]}, {""tool"": ""Drill"", ""bbox"": [0.95, 0.35, 1.15, 0.55]}, {""tool"": ""Utility Knife"", ""bbox"": [0.45, 0.55, 0.7, 0.75]}]"
+tool-119-_jpg.rf.d46d35b536e30a3de0054d695f7c5e7e.jpg,"[{""tool"": ""Claw Hammer"", ""bbox"": [0.083, 0.113, 0.433, 0.693]}]"
+Screwdriver-425-_JPEG_jpg.rf.314407a587b2f5f65766bf7c769a1f2d.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [250, 241, 640, 761]}]"
+screw_driver829_jpg.rf.e16dae941564cb8f91eab0f19ef5742d.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.046,0.042,0.304,0.870]}, {""tool"": ""Pliers"", ""bbox"": [0.384,0.049,0.734,0.875]}, {""tool"": ""Nail Puller"", ""bbox"": [0.384,0.242,0.614,0.630]}, {""tool"": ""Screwdriver"", ""bbox"": [0.394,0.384,0.646,0.770]}, {""tool"": ""Drill Bit Set"", ""bbox"": [0.394,0.394,0.646,0.770]}, {""tool"": ""Allen Wrench Set"", ""bbox"": [0.384,0.242,0.614,0.630]}]"
+20231102151519_jpg.rf.cab269f684012a114a9f3810b929197b.jpg,[]
+000136_jpg.rf.fb9f2dcf9207c6d2fbcff4fa7027e363.jpg,"[{""tool"": ""Needle Nose Pliers"", ""bbox"": [0.25,0.25,0.91,0.76]}]"
+13_jpg.rf.5354673f216c21f97988245e3dd5ea6c.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.36, 0.30, 0.68, 0.90]}]"
+istockphoto-1325754979-612x612_jpg.rf.44f5f6fd8d5e96014e752e38100e82d9.jpg,[]
+20_jpg.rf.d714b7cafce5879194ef18c626583203.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.04, 0.19, 0.84, 0.63]}]"
+images134_jpg.rf.2a885e694cedeb9ab98a09fbb242cc97.jpg,[]
+tool-188-_jpg.rf.fc6f4fc0fc49381f0f8fd1de918dda1c.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.034, 0.021, 0.454, 0.454]}, {""tool"": ""Pliers"", ""bbox"": [0.422, 0.021, 0.656, 0.454]}, {""tool"": ""Wrench"", ""bbox"": [0.734, 0.021, 0.944, 0.454]}, {""tool"": ""Screwdriver"", ""bbox"": [0.966, 0.021, 1.186, 0.454]}, {""tool"": ""Tape Measure"", ""bbox"": [0.034, 0.021, 0.454, 0.454]}, {""tool"": ""Utility Knife"", ""bbox"": [0.416, 0.021, 0.656, 0.454]}, {""tool"": ""Pencils"", ""bbox"": [0.422, 0.021, 0.656, 0.454]}]"
+plusdriver01_jpg.rf.41174908e0e978fae9c5b5094f95448c.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.03, 0.27, 0.93, 0.72]}]"
+2023-08-14_15-29-26_png_jpg.rf.b6112d04e6cc208968d98e3e0ba86d7b.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.08, 0.15, 0.38, 0.69]}]"
+20231102151721_jpg.rf.dcccdbec5264959f0cfc721d31959832.jpg,[]
+Wrench-127-_JPEG_jpg.rf.02b44e862beb8bcef0f01ec91f3d9a0e.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [255, 273, 432, 633]}]"
+000164_jpg.rf.ed8d81031af8920de6c858a446b2d966.jpg,"[{""tool"": ""Wrenches"", ""bbox"": [0, 0, 0.74, 0.61]}]"
+20231102151457_jpg.rf.807ac71044d2733bc9025adb30c7db3b.jpg,"[{""tool"": ""Pliers"", ""bbox"": [128, 346, 206, 540]}, {""tool"": ""Hammer"", ""bbox"": [256, 354, 334, 520]}, {""tool"": ""Wrench"", ""bbox"": [284, 436, 424, 576]}]"
+images216_jpg.rf.b233e5e4c75a86839ea33e18e7870220.jpg,[]
+Screwdriver-642-_JPEG_jpg.rf.4497b17355bf380d87a644ac060d0cc5.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.04, 0.05, 0.98, 0.90]}]"
+000352_jpg.rf.51d17860366907d45433214be760790f.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.366, 0.134, 0.644, 0.804]}, {""tool"": ""Miter Saw"", ""bbox"": [0.484, 0.164,0.704,0.844]}, {""tool"": ""Level"", ""bbox"": [0.520,0.184,0.700,0.840]}, {""tool"": ""Drill"", ""bbox"": [0.540,0.214,0.740,0.864]}, {""tool"": ""Screwdriver"", ""bbox"": [0.512,0.224,0.724,0.864]}, {""tool"": ""Wrench"", ""bbox"": [0.524,0.234,0.744,0.864]}]"
+20231102151558_jpg.rf.80be75d663f6421c56bbbcc3fd58019f.jpg,[]
+000165_jpg.rf.15eb395558c05a8bf57ae8aade5ccebe.jpg,[]
+000532_jpg.rf.a101a1cdf06d35f77644a8a2184c9c0e.jpg,"[{""tool"": ""Adjustable Wrench"", ""bbox"": [0.25, 0.32, 0.74, 0.64]}]"
+D_NQ_NP_899244-MLB31981601933_082019-F_jpg.rf.2f46a57390d3f90e72370e61d8b4d98a.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.17, 0.17, 0.67, 0.85]}, {""tool"": ""Pliers"", ""bbox"": [0.55, 0.14, 0.67, 0.42]}, {""tool"": ""Screwdriver"", ""bbox"": [0.49, 0.21, 0.71, 0.57]}, {""tool"": ""Punch"", ""bbox"": [0.29, 0.18, 0.77, 0.45]}]"
+marteloC590_jpg.rf.b7bc64b42f9faa35e24babb9296f082d.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.36, 0.36, 0.52, 0.55]}]"
+20231102151214_jpg.rf.6339e402e6ade9985db3739aca486fd2.jpg,[]
+marteloC786_jpg.rf.3279e46b29c39ccab30410ef2be156e9.jpg,"[{""tool"": ""Hammer"", ""bbox"": [382, 246, 543, 430]}]"
+000209_jpg.rf.be65037e5015edc541b8d09e32c34acd.jpg,"[{""tool"": ""Hammer"", ""bbox"": [0.036, 0.142, 0.822, 0.656]}]"
+35_jpg.rf.6440e06e02fea8df49cb27554f4db991.jpg,[]
+20231102151251_jpg.rf.6ea951159995b5069ff1e8db48609d64.jpg,"[{""tool"": ""Scribe"", ""bbox"": [0.00, 0.05, 0.42, 0.80]}, {""tool"": ""Sharp Knife"", ""bbox"": [0.00, 0.10, 0.39, 0.55]}, {""tool"": ""Hammer"", ""bbox"": [0.00, 0.70, 0.35, 0.95]}, {""tool"": ""Pliers"", ""bbox"": [0.35, 0.10, 0.70, 0.70]}, {""tool"": ""File"", ""bbox"": [0.00, 0.90, 0.60, 0.95]}]"
+istockphoto-676022990-612x612_jpg.rf.83c6c8cfbe219498236e33e261052fe0.jpg,[]
+images154_jpg.rf.f610741ee2ece0cfbec4a6b1f6f56d5c.jpg,"[{""tool"": ""Open-end Wrench"", ""bbox"": [0.18, 0.17, 0.29, 0.68]}, {""tool"": ""Screwdriver"", ""bbox"": [0.37, 0.17, 0.48, 0.67]}, {""tool"": ""Pliers"", ""bbox"": [0.51, 0.18, 0.71, 0.67]}]"
+20231102151549_jpg.rf.f1afb13edb7224bbaf5f51aae6ef4bd4.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.05, 0.21, 0.18, 0.37]}, {""tool"": ""Screwdriver"", ""bbox"": [0.35, 0.23, 0.58, 0.42]}, {""tool"": ""Hammer"", ""bbox"": [0.43, 0.27, 0.70, 0.45]}, {""tool"": ""Scissors"", ""bbox"": [0.53, 0.26, 0.71, 0.40]}, {""tool"": ""Box"", ""bbox"": [0.03, 0.12, 0.13, 0.22]}]"
+000172_jpg.rf.e1eedbc74f8b8cdae6688a683faaa31d.jpg,[]
+20231102151749_jpg.rf.c880f18ee34850ae5d9855ec341b3531.jpg,"[{""tool"": ""Wrench"", ""bbox"": [0.416, 0.417, 0.616, 0.673]}, {""tool"": ""Pliers"", ""bbox"": [0.411, 0.331, 0.481, 0.444]}, {""tool"": ""Screwdriver"", ""bbox"": [0.361, 0.341, 0.481, 0.444]}, {""tool"": ""Hammer"", ""bbox"": [0.341, 0.332, 0.481, 0.444]}, {""tool"": ""Utility Knife"", ""bbox"": [0.421, 0.323, 0.511, 0.444]}, {""tool"": ""Flathead Screwdriver"", ""bbox"": [0.381, 0.341, 0.481, 0.444]}]"
+radiopliers02_jpg.rf.5ea65ebe34793abf574b06e798f301bf.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.000, 0.005, 0.419, 0.433]}]"
+41YBqzrJSGL_jpg.rf.980bcfe0feb296d9009c9d63913628f2.jpg,"[{""tool"": ""Pliers"", ""bbox"": [0.00, 0.00, 0.92, 0.75]}]"
+Screwdriver-667-_JPEG_jpg.rf.906b92d154a0392d539e633280be9bff.jpg,"[{""tool"": ""Screwdriver"", ""bbox"": [0.06, 0.06, 0.60, 0.62]}]"
