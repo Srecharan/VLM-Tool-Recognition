@@ -1,5 +1,0 @@
-{
-  "standard_response": "Error: Unsloth: Can only load in 4bit or 8bit, not both!\nAlso, we by default set `load_in_4bit = True`.\nIf you want 8bit finetuning, set both `load_in_4bit = False` and `load_in_8bit = True`",
-  "rag_response": "Error: Unsloth: Can only load in 4bit or 8bit, not both!\nAlso, we by default set `load_in_4bit = True`.\nIf you want 8bit finetuning, set both `load_in_4bit = False` and `load_in_8bit = True`",
-  "retrieved_info": []
-}

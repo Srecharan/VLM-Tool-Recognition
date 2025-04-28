@@ -1,7 +1,0 @@
-{
-  "standard_response": "Error: CUDA driver error: invalid argument",
-  "rag_response": "Error: CUDA driver error: invalid argument",
-  "standard_json": null,
-  "rag_json": null,
-  "retrieved_info": []
-}

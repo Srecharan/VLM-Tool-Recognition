@@ -1,5 +1,0 @@
-{
-  "standard_response": "Error: This modeling file requires the following packages that were not found in your environment: einops, transformers_stream_generator. Run `pip install einops transformers_stream_generator`",
-  "rag_response": "Error: This modeling file requires the following packages that were not found in your environment: einops, transformers_stream_generator. Run `pip install einops transformers_stream_generator`",
-  "retrieved_info": []
-}

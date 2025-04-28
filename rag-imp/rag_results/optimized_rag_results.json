@@ -1,5 +1,0 @@
-{
-  "standard_response": "Error: Unrecognized processing class in Qwen/Qwen-VL-Chat. Can't instantiate a processor, a tokenizer, an image processor or a feature extractor for this model. Make sure the repository contains the files of at least one of those processing classes.",
-  "rag_response": "Error: Unrecognized processing class in Qwen/Qwen-VL-Chat. Can't instantiate a processor, a tokenizer, an image processor or a feature extractor for this model. Make sure the repository contains the files of at least one of those processing classes.",
-  "retrieved_info": []
-}
