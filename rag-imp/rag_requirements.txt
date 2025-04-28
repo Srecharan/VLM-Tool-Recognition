@@ -1,0 +1,9 @@
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+pandas>=1.5.0
+numpy>=1.24.0
+pillow>=9.0.0
+tqdm>=4.60.0
+matplotlib>=3.5.0
+# torch is already installed in your environment
+# unsloth will be installed separately
