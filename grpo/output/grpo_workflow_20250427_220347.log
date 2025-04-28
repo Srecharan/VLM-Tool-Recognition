@@ -1,0 +1,59 @@
+Starting GRPO workflow at Sun 27 Apr 2025 10:03:47 PM EDT
+===============================
+/home/rex/VLM-Tool-Recognition/grpo/generate_grpo_pairs.py:17: UserWarning: WARNING: Unsloth should be imported before transformers, peft to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  from unsloth import FastVisionModel
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+Unsloth: Failed to patch SmolVLMForConditionalGeneration forward function.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Creating GRPO training dataset...
+Loading knowledge base from tool_knowledge_base.csv...
+Creating embeddings for knowledge base...
+Batches:   0%|          | 0/3 [00:00<?, ?it/s]Batches:  33%|███▎      | 1/3 [00:00<00:01,  1.24it/s]Batches: 100%|██████████| 3/3 [00:00<00:00,  3.67it/s]
+Using a slow image processor as `use_fast` is unset and a slow processor was saved with this model. `use_fast=True` will be the default behavior in v4.52, even if the model was saved with a slow processor. This will result in minor differences in outputs. You'll still be able to use a slow processor with `use_fast=False`.
+Loading fine-tuned model from akameswa/Qwen2.5-VL-7B-Instruct-bnb-4bit-finetune-vision-language...
+==((====))==  Unsloth 2025.4.1: Fast Qwen2_5_Vl patching. Transformers: 4.51.3.
+   \\   /|    NVIDIA GeForce RTX 2080 SUPER. Num GPUs = 1. Max memory: 7.785 GB. Platform: Linux.
+O^O/ \_/ \    Torch: 2.6.0+cu124. CUDA: 7.5. CUDA Toolkit: 12.4. Triton: 3.2.0
+\        /    Bfloat16 = FALSE. FA [Xformers = 0.0.29.post3. FA2 = False]
+ "-____-"     Free license: http://github.com/unslothai/unsloth
+Unsloth: Fast downloading is enabled - ignore downloading bars which are red colored!
+Loading dataset akameswa/tool-safety-dataset (split: valid)...
+Generating pairs:   0%|          | 0/5 [00:00<?, ?it/s]Generating pairs:  20%|██        | 1/5 [00:04<00:19,  4.98s/it]Generating pairs:  60%|██████    | 3/5 [00:05<00:02,  1.34s/it]Generating pairs: 100%|██████████| 5/5 [00:05<00:00,  1.47it/s]Generating pairs: 100%|██████████| 5/5 [00:05<00:00,  1.05s/it]
+Error processing sample 0: !handles_.at(i) INTERNAL ASSERT FAILED at "/pytorch/c10/cuda/CUDACachingAllocator.cpp":400, please report a bug to PyTorch. 
+Error processing sample 1: !handles_.at(i) INTERNAL ASSERT FAILED at "/pytorch/c10/cuda/CUDACachingAllocator.cpp":400, please report a bug to PyTorch. 
+Error processing sample 2: !handles_.at(i) INTERNAL ASSERT FAILED at "/pytorch/c10/cuda/CUDACachingAllocator.cpp":400, please report a bug to PyTorch. 
+Error processing sample 3: !handles_.at(i) INTERNAL ASSERT FAILED at "/pytorch/c10/cuda/CUDACachingAllocator.cpp":400, please report a bug to PyTorch. 
+Error processing sample 4: !handles_.at(i) INTERNAL ASSERT FAILED at "/pytorch/c10/cuda/CUDACachingAllocator.cpp":400, please report a bug to PyTorch. 
+Saving dataset with 0 pairs...
+GRPO paired dataset created successfully in output/paired_data
+
+Summary:
+Created 0 paired examples for GRPO training
+Data saved to output/paired_data
+/home/rex/VLM-Tool-Recognition/grpo/train_grpo.py:9: UserWarning: WARNING: Unsloth should be imported before transformers to ensure all optimizations are applied. Your code may run slower or encounter memory issues without these optimizations.
+
+Please restructure your imports with 'import unsloth' at the top of your file.
+  from unsloth import FastVisionModel
+🦥 Unsloth: Will patch your computer to enable 2x faster free finetuning.
+Unsloth: Failed to patch SmolVLMForConditionalGeneration forward function.
+🦥 Unsloth Zoo will now patch everything to make training faster!
+Traceback (most recent call last):
+  File "/home/rex/VLM-Tool-Recognition/grpo/train_grpo.py", line 10, in <module>
+    from unsloth.trainer import UnslothGRPOTrainer
+ImportError: cannot import name 'UnslothGRPOTrainer' from 'unsloth.trainer' (/home/rex/miniconda3/envs/rag-env/lib/python3.10/site-packages/unsloth/trainer.py)
+
+==================== Generating Paired Data for GRPO ====================
+Running command: /home/rex/miniconda3/envs/rag-env/bin/python generate_grpo_pairs.py --model_path akameswa/Qwen2.5-VL-7B-Instruct-bnb-4bit-finetune-vision-language --knowledge_base tool_knowledge_base.csv --dataset akameswa/tool-safety-dataset --split valid --num_samples 5 --output_dir output/paired_data
+Command completed successfully in 37.59 seconds
+
+==================== Training with GRPO ====================
+Running command: /home/rex/miniconda3/envs/rag-env/bin/python train_grpo.py --model_path akameswa/Qwen2.5-VL-7B-Instruct-bnb-4bit-finetune-vision-language --input_data output/paired_data/grpo_pairs.pt --output_dir output/grpo_model --beta 0.1 --num_train_epochs 1 --max_samples 5
+Error running command: Command '['/home/rex/miniconda3/envs/rag-env/bin/python', 'train_grpo.py', '--model_path', 'akameswa/Qwen2.5-VL-7B-Instruct-bnb-4bit-finetune-vision-language', '--input_data', 'output/paired_data/grpo_pairs.pt', '--output_dir', 'output/grpo_model', '--beta', '0.1', '--num_train_epochs', '1', '--max_samples', '5']' returned non-zero exit status 1.
+GRPO training failed. Exiting workflow.
+
+GRPO workflow completed with errors. Please check the logs above.
+Workflow completed successfully!
+===============================
+Workflow finished at Sun 27 Apr 2025 10:04:35 PM EDT
