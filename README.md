@@ -57,7 +57,7 @@ Example annotation format:
 ```
 
 <div align="center">
-  <img src="assets/data_distribution.png" alt="Dataset Distribution" width="600"/>
+  <img src="assets/tool_class_distribution.png" alt="Dataset Distribution" width="600"/>
   <p><em>Distribution of tool categories in the dataset</em></p>
 </div>
 
