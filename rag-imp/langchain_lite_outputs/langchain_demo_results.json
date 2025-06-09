@@ -1,0 +1,28 @@
+{
+  "demo_info": {
+    "timestamp": "2025-06-09T14:13:00.666107",
+    "model_reference": "akameswa/Llama-3.2-11B-Vision-Instruct-bnb-4bit-finetune-vision-language",
+    "mode": "mock_vlm_demo",
+    "system": "MacBook_optimized"
+  },
+  "workflow_results": {
+    "identified_tools": "Adjustable wrench, Phillips screwdriver, flathead screwdriver, needle-nose pliers, measuring tape, safety glasses",
+    "retrieved_documents": 2,
+    "retrieved_info": "Tool: adjustable_wrench\nPrimary Function: Gripping and turning nuts, bolts, and pipe fittings\nUsage Instructions: Adjust jaw size to fit fastener snugly, pull rather than push when possible\nSafety Information: {\"required_ppe\": \"Safety glasses, work gloves\", \"primary_hazards\": \"Pinch points between jaws, tool slipping off fastener\", \"common_misuses\": \"Using as hammer, using wrong size opening\"}\n---\nTool: pliers\nPrimary Function: Gripping, twisting, and cutting wire and small objects\nUsage Instructions: Use appropriate pliers type for task, grip firmly near pivot point\nSafety Information: {\"required_ppe\": \"Safety glasses, work gloves recommended\", \"primary_hazards\": \"Pinch points, sharp cutting edges, wire spring-back\", \"common_misuses\": \"Using as wrench for large fasteners, using wrong type for electrical work\"}",
+    "safety_analysis": "Required PPE: Safety glasses, work gloves, closed-toe shoes\n            Primary Hazards: Pinch points, sharp edges, eye injury from debris\n            Common Misuses: Using wrench as hammer, wrong size tool for job\n            Best Practices: Inspect tools before use, maintain proper grip, use correct tool for task"
+  },
+  "langchain_components": {
+    "vectorstore": "FAISS",
+    "embeddings": "SentenceTransformer",
+    "retriever": "similarity_search",
+    "prompt_templates": [
+      "identification",
+      "safety_analysis"
+    ]
+  },
+  "performance": {
+    "total_time_seconds": 2.771159,
+    "gpu_required": false,
+    "mac_compatible": true
+  }
+}

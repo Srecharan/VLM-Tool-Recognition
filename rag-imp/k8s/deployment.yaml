@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vlm-tool-recognition
+  labels:
+    app: vlm-tool-recognition
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vlm-tool-recognition
+  template:
+    metadata:
+      labels:
+        app: vlm-tool-recognition
+    spec:
+      containers:
+      - name: vlm-app
+        image: vlm-tool-recognition:latest
+        ports:
+        - containerPort: 8000
+        env:
+        - name: PINECONE_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: vlm-secrets
+              key: pinecone-api-key 
