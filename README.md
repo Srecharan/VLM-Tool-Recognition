@@ -243,9 +243,12 @@ python pinecone_rag.py --image_path test_images/sample_image_0.jpg
 ### 4. Docker & Kubernetes Deployment
 
 ```bash
+# Build container
 cd rag-imp
-# Build and deploy container
 docker build -t vlm-tool-recognition .
+
+# Deploy to Kubernetes
+cd ..
 kubectl apply -f k8s/
 ```
 
@@ -268,8 +271,8 @@ VLM-Tool-Recognition/
 ├── rag-imp/            # LangChain + Pinecone RAG implementation
 │   ├── langchain_rag.py    # LangChain orchestration
 │   ├── pinecone_rag.py     # Pinecone vector storage
-│   ├── Dockerfile          # Container configuration
-│   └── k8s/               # Kubernetes deployment files
+│   └── Dockerfile          # Container configuration
+├── k8s/                # Kubernetes deployment files
 ├── grpo/               # GRPO training and optimization
 └── assets/             # Images and documentation
 ```
