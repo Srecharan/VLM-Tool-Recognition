@@ -1,4 +1,4 @@
-# SafetyVLM: Enhanced Vision-Language Models for Industrial Tool Safety
+# SafetyVLM: VLM-Based Tool Recognition System for Industrial Safety Applications
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
